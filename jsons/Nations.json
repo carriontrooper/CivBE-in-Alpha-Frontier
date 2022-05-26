@@ -1,4 +1,6 @@
 [
+	// victory types: Scientific, Diplomatic, Cultural, Domination
+	
 	{
 		"name": "American Reclamation Corporation",
 		"leaderName": "Suzanne Fielding",
@@ -99,6 +101,60 @@
 			"Pho Dai",
 			"Tenger Bambai",
 			"Hyugeso"
+		]
+	},
+	{
+		"name": "People's African Union",
+		"leaderName": "Samatar Jama Barre",
+		"adjective": ["PAU"],
+		"startBias": ["Plains","Grassland","Desert"],
+		"preferredVictoryType":"Cultural",
+
+		"startIntroPart1": ".",
+		"startIntroPart2": ". Can you build a colony that stands the test of time?",
+
+		"declaringWar": ".",
+		"attacked": ".",
+		"defeated": ".",
+		"introduction": ".",
+
+		"neutralHello": ".",
+		"hateHello": ".",
+
+		"tradeRequest": ".",
+
+		"outerColor": [80, 21, 8],
+		"innerColor": [250, 106, 20],
+		"favoredReligion": "Neo-Monolith",
+		"uniqueName": "African Abundance",
+		"uniques": [
+			"[+10]% [Food] [in all cities] <while the empire is happy>",
+			"[+1 Science] from every [Scientist]",
+			"[+1 Gold] from every [Merchant]",
+			"[+1 Culture] from every [Influencer]",
+			"[+1 Production] from every [Engineer]"
+		],
+		"cities": [
+			"Magan",
+			"Ayaan",
+			"Thabo",
+			"Jenali",
+			"Bongani",
+			"Xirsi",
+			"Zuberi",
+			"Masego",
+			"Sizwe",
+			"Ladan",
+			"Jabulile",
+			"Warsame",
+			"Thula",
+			"Qasri",
+			"Chengetai",
+			"Fadsizo",
+			"Mzoxolo",
+			"Hoodo",
+			"Liiban",
+			"Roonaan"
 		]
 	},
 ]
