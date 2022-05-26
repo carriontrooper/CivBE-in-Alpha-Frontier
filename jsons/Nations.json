@@ -1,1 +1,104 @@
+[
+	{
+		"name": "American Reclamation Corporation",
+		"leaderName": "Suzanne Fielding",
+		"adjective": ["ARC"],
+		"startBias": ["Plains","Grassland"],
+		"preferredVictoryType":"Diplomatic",
 
+		"startIntroPart1": ".",
+		"startIntroPart2": ". Can you build a colony that stands the test of time?",
+
+		"declaringWar": ".",
+		"attacked": ".",
+		"defeated": ".",
+		"introduction": ".",
+
+		"neutralHello": ".",
+		"hateHello": ".",
+
+		"tradeRequest": ".",
+
+		"outerColor": [4, 54, 107],
+		"innerColor": [79, 207, 231],
+		"favoredReligion": "Cosmic Clergy",
+		"uniqueName": "Corporate Espionage",
+		"uniques": [
+			"[+20]% Production when constructing [Stealth Infantry] units [in all cities]",
+			"[+20]% Production when constructing [Spy Satellite Network] buildings [in all cities]",
+			"[+1 Gold] from all [Spy Satellite Network] buildings"
+		],
+		"cities": [
+			"Central",
+			"Axiom",
+			"Vanguard",
+			"Liberty",
+			"Fortune",
+			"Amity",
+			"Prospect",
+			"Grand City",
+			"Praxis",
+			"Sentinel",
+			"Reliance",
+			"Endeavour",
+			"Ascension",
+			"Stalwart",
+			"Heritage",
+			"Star City",
+			"Bradbury",
+			"Empire",
+			"Venture",
+			"Enterprise"
+		]
+	},
+	{
+		"name": "Pan-Asian Cooperative",
+		"leaderName": "Daoming Sochua",
+		"adjective": ["PAC"],
+		"startBias": ["Plains","Grassland"],
+		"preferredVictoryType":"Cultural",
+
+		"startIntroPart1": ".",
+		"startIntroPart2": ". Can you build a colony that stands the test of time?",
+
+		"declaringWar": ".",
+		"attacked": ".",
+		"defeated": ".",
+		"introduction": ".",
+
+		"neutralHello": ".",
+		"hateHello": ".",
+
+		"tradeRequest": ".",
+
+		"outerColor": [56, 27, 121],
+		"innerColor": [228, 36, 235],
+		"favoredReligion": "Solar Mass",
+		"uniqueName": "Great Heavenly Leap",
+		"uniques": [
+			"[-20]% tile improvement construction time",
+			"[+20]% Production when constructing [All] wonders [in all cities]"
+		],
+		"cities": [
+			"Tiangong",
+			"Quyen",
+			"Nhiet Tinh",
+			"Ganzorig",
+			"Huanle",
+			"Gong Ren",
+			"Thanh",
+			"Kuijia",
+			"Huihuang",
+			"Sinjeon",
+			"Renxing",
+			"Qi Chui",
+			"Gaosi",
+			"Adislal",
+			"Xindalu",
+			"Troi",
+			"Pho Dai",
+			"Tenger Bambai",
+			"Hyugeso"
+		]
+	},
+]
