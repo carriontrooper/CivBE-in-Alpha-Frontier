@@ -1,5 +1,73 @@
 [
 	// victory types: Scientific, Diplomatic, Cultural, Domination
+	/* religion list
+	"Virtualism",
+	"Xenocult",
+	"Mekhaneites",
+	"Neo-Monolith",
+	"Cosmic Clergy",
+	"Gene Purists",
+	"Voidist",
+	"Mormonism",
+	"Nomadist",
+	"Luddism",
+	"Posadist",
+	"Solar Mass",
+	"Jovian Theosophy",
+	"Astral Pantheon",
+	"Children of Nihil"
+	*/
+	
+	/*
+	{
+		"name": "EmpireName",
+		"leaderName": "LeaderName",
+		"adjective": ["Adjective"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType":"Scientific",
+
+		"startIntroPart1": ".",
+		"startIntroPart2": ". Can you build a colony that stands the test of time?",
+
+		"declaringWar": ".",
+		"attacked": ".",
+		"defeated": ".",
+		"introduction": ".",
+
+		"neutralHello": ".",
+		"hateHello": ".",
+
+		"tradeRequest": ".",
+
+		"outerColor": [85, 85, 85],
+		"innerColor": [126, 192, 253],
+		"favoredReligion": "ReligionName",
+		"uniqueName": "UniqueName",
+		"uniques": ["Uniques Go Here"],
+		"cities": [
+			"Capital",
+			"City1",
+			"City2",
+			"City3",
+			"City4",
+			"City5",
+			"City6",
+			"City7",
+			"City8",
+			"City9",
+			"City10",
+			"City11",
+			"City12",
+			"City13",
+			"City14",
+			"City15",
+			"City16",
+			"City17",
+			"City18",
+			"AndSoOn"
+		]
+	},
+	*/
 	
 	{
 		"name": "American Reclamation Corporation",
@@ -155,6 +223,106 @@
 			"Hoodo",
 			"Liiban",
 			"Roonaan"
+		]
+	},
+	{
+		"name": "Franco-Iberia",
+		"leaderName": "Elodie",
+		"adjective": ["FI"],
+		"startBias": ["Plains","Grassland","Desert"],
+		"preferredVictoryType":"Cultural",
+
+		"startIntroPart1": ".",
+		"startIntroPart2": ". Can you build a colony that stands the test of time?",
+
+		"declaringWar": ".",
+		"attacked": ".",
+		"defeated": ".",
+		"introduction": ".",
+
+		"neutralHello": ".",
+		"hateHello": ".",
+
+		"tradeRequest": ".",
+
+		"outerColor": [54, 107, 166],
+		"innerColor": [182, 196, 219],
+		"favoredReligion": "Astral Pantheon",
+		"uniqueName": "Bastion of Culture",
+		"uniques": [
+			"Provides 1 happiness per 2 additional social policies adopted",
+			"[-10]% Culture cost of adopting new Policies"
+		],
+		"cities": [
+			"Le Coeur",
+			"Prospérité",
+			"Aintza",
+			"Fidèle",
+			"Gran Éxito",
+			"Beraht",
+			"Amparo",
+			"Bouclier",
+			"Izar",
+			"Honorée",
+			"Mirabelle",
+			"Senén",
+			"Valienta",
+			"Filoteu",
+			"Kenza",
+			"Igoa",
+			"Espérance",
+			"Kemena",
+			"Pacifique"
+		]
+	},
+	{
+		"name": "Kavithan Protectorate",
+		"leaderName": "Kavitha Thakur",
+		"adjective": ["KP"],
+		"startBias": ["Forest","Jungle","Plains","Grassland"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": ".",
+		"startIntroPart2": ". Can you build a colony that stands the test of time?",
+
+		"declaringWar": ".",
+		"attacked": ".",
+		"defeated": ".",
+		"introduction": ".",
+
+		"neutralHello": ".",
+		"hateHello": ".",
+
+		"tradeRequest": ".",
+
+		"outerColor": [96, 16, 110],
+		"innerColor": [0, 216, 186],
+		"favoredReligion": "Xenocult",
+		"uniqueName": "The Prophet's Dream",
+		"uniques": [
+			"[-10]% Culture cost of natural border growth [in all cities]",
+			"[-10]% Gold cost of acquiring tiles [in all cities]"
+		],
+		"cities": [
+			"Mandira",
+			"Saira",
+			"Asraya",
+			"Sabda",
+			"Javed",
+			"Vasanta",
+			"Harsha",
+			"Pran",
+			"Agni",
+			"Zafar",
+			"Sachita",
+			"Shan",
+			"Mansi",
+			"Dhanya",
+			"Rayyan",
+			"Thangam",
+			"Udyama",
+			"Garhi",
+			"Nikhitha"
 		]
 	},
 ]
