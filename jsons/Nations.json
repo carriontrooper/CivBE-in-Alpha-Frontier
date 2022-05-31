@@ -76,7 +76,7 @@
 		"startBias": ["Plains","Grassland"],
 		"preferredVictoryType":"Diplomatic",
 
-		"startIntroPart1": ".",
+		"startIntroPart1": "ARC’s global operations require a herculean logistical effort. Thousands of client and customer relationships are managed every second, and every interaction between ARC and an outside entity must represent the company’s culture, values, and pedigree. As CEO, Fielding prioritized quality assurance and public relations without sacrificing the bottom line, much to the delight of investors and the public alike. Under her guidance, both shares and the company reputation have risen astronomically.",
 		"startIntroPart2": ". Can you build a colony that stands the test of time?",
 
 		"declaringWar": ".",
@@ -176,9 +176,9 @@
 		"leaderName": "Samatar Jama Barre",
 		"adjective": ["African Union"],
 		"startBias": ["Plains","Grassland","Desert"],
-		"preferredVictoryType":"Cultural",
+		"preferredVictoryType":"Domination",
 
-		"startIntroPart1": ".",
+		"startIntroPart1": "The 'People's' African Union was one of the first organizations to embrace the Seeding. Leading African scientists were pivotal during the Inflection Point discovery, and the Union was well prepared to lead humanity into space. While well-prepared, the issue was extremely divisive for the much of the population of the Union. Samatar Jama Barre himself, one of the major proponents of the Seeding venture still carries a small piece of soil from his birthplace.",
 		"startIntroPart2": ". Can you build a colony that stands the test of time?",
 
 		"declaringWar": ".",
@@ -297,7 +297,7 @@
 
 		"outerColor": [96, 16, 110],
 		"innerColor": [0, 216, 186],
-		"favoredReligion": "Xenocult",
+		"favoredReligion": "Jovian Theosophy",
 		"uniqueName": "The Prophet's Dream",
 		"uniques": [
 			"[-10]% Culture cost of natural border growth [in all cities]",
@@ -332,7 +332,7 @@
 		"startBias": ["Jungle"],
 		"preferredVictoryType":"Domination",
 
-		"startIntroPart1": ".",
+		"startIntroPart1": "The Academia Militar das Agulhas Negras is famous for its all-terrain survival training course known as Las Lomas de Arena. Once a Parque Regional, this restricted area is loved by instructors for its utility in separating the weak from the strong. The 10 mile course includes rainforest, 30 meter high sand dunes, river crossings, pulse plasma sentries, low-charge ion minefields, and irradiated swampland. One does not run the Lomas course, one survives it. The first and only cadet to ever complete the course intact is none other than the Supreme Commander of Brasilia, the Lion of Peshawar, Rejinaldo Leonardo Pedro Bolivar de Alencar-Araripe.",
 		"startIntroPart2": ". Can you build a colony that stands the test of time?",
 
 		"declaringWar": ".",
@@ -484,7 +484,7 @@
 		"startBias": ["Desert"],
 		"preferredVictoryType":"Cultural",
 
-		"startIntroPart1": ".",
+		"startIntroPart1": "Al Falah is known as a phoenix-like collective of resilient and determined people; however, it is more than just a tenacious movement. Aboard the waking Seedships, the people of Al Falah lived a relatively comfortable life in a simulated-gravity environment aboard the “waking” Seedships. Special attention had been paid to creating and preserving as much of an Earth-like ambiance as possible. Elaborate, artificial terrariums and nurseries housed valuable pieces of Al Falah’s heritage, and ensured that the people would never forget their homeland.",
 		"startIntroPart2": ". Can you build a colony that stands the test of time?",
 
 		"declaringWar": ".",
@@ -525,6 +525,158 @@
 			"Malek",
 			"Al Akdam",
 			"Khaled"
+		]
+	},
+	{
+		"name": "Chungsu",
+		"leaderName": "Han Jae-Moon",
+		"adjective": ["Chungsu"],
+		"startBias": ["Tundra","Coastal"],
+		"preferredVictoryType":"Domination",
+
+		"startIntroPart1": ".",
+		"startIntroPart2": ". Can you build a colony that stands the test of time?",
+
+		"declaringWar": ".",
+		"attacked": ".",
+		"defeated": ".",
+		"introduction": ".",
+
+		"neutralHello": ".",
+		"hateHello": ".",
+
+		"tradeRequest": ".",
+
+		"outerColor": [0, 0, 51],
+		"innerColor": [0, 207, 26],
+		"favoredReligion": "Voidist",
+		"uniqueName": "Deniable Operations",
+		"uniques": [
+			"[+10]% Production when constructing [Stealth Infantry] units [in all cities]",
+			"[+10]% Strength <for units with [Spook] promotion>",
+			"City-State territory always counts as friendly territory"
+			
+		],
+		"cities": [
+			"Jeongsang"
+			"Dangye",
+			"Uimu",
+			"Yagsog",
+			"Jibae",
+			"Cheongchija",
+			"Bojeung",
+			"Gamsa",
+			"Ihae",
+			"Junbi",
+			"Gwanchalja",
+			"Chul",
+			"Sinnyeom",
+			"Tong-Gwa",
+			"Pangyeol",
+			"Mogjeog",
+			"Pungbu",
+			"Insig",
+			"Pinancheo"
+		]
+	},
+	{
+		"name": "INTEGR",
+		"leaderName": "Lena Ebner",
+		"adjective": ["INTEGR"],
+		"startBias": ["Hill"],
+		"preferredVictoryType":"Diplomacy",
+
+		"startIntroPart1": ".",
+		"startIntroPart2": ". Can you build a colony that stands the test of time?",
+
+		"declaringWar": ".",
+		"attacked": ".",
+		"defeated": ".",
+		"introduction": ".",
+
+		"neutralHello": ".",
+		"hateHello": ".",
+
+		"tradeRequest": ".",
+
+		"outerColor": [82, 3, 0],
+		"innerColor": [69, 173, 120],
+		"favoredReligion": "Xenocult",
+		"uniqueName": "Green Austerity",
+		"uniques": [
+			"Allied City-States provide [Culture] equal to [+20]% of what they produce for themselves",
+			"Resting point for Influence with City-States is increased by [10]"
+		],
+		"cities": [
+			"Weltgeist",
+			"Kastellan",
+			"Eintracht",
+			"Weisheit",
+			"Demut",
+			"Blauwald",
+			"Wächter",
+			"Entwicklung",
+			"Hochburg",
+			"Entschluss",
+			"Ehrfurcht",
+			"Trutzburg",
+			"Gemüt",
+			"Schwerweg",
+			"Wahrheit",
+			"Belohnung",
+			"Hochachtung",
+			"Streben",
+			"Zenit"
+		]
+	},
+	{
+		"name": "North Sea Alliance",
+		"leaderName": "Duncan Hughes",
+		"adjective": ["NSA"],
+		"startBias": ["Tundra","Coastal"],
+		"preferredVictoryType":"Domination",
+
+		"startIntroPart1": ".",
+		"startIntroPart2": ". Can you build a colony that stands the test of time?",
+
+		"declaringWar": ".",
+		"attacked": ".",
+		"defeated": ".",
+		"introduction": ".",
+
+		"neutralHello": ".",
+		"hateHello": ".",
+
+		"tradeRequest": ".",
+
+		"outerColor": [82, 40, 15],
+		"innerColor": [87, 133, 236],
+		"favoredReligion": "Luddism",
+		"uniqueName": "ARKs of Humanity",
+		"uniques": [
+			"[+2 Production] in cities on [Coastal] tiles",
+			"[+10]% Strength for cities <in [Coastal] tiles>"
+		],
+		"cities": [
+			"Deepcastle",
+			"Eilemuir",
+			"Fjarran",
+			"Dunkyle",
+			"Vanfald",
+			"Wideway",
+			"Sìorraidh",
+			"Gryten",
+			"Oceanham",
+			"Örlög",
+			"Helgedom",
+			"Ståndaktig",
+			"Kestävyys",
+			"Bredt Øye",
+			"Klog Hjerte",
+			"Himinn",
+			"Duncankeld",
+			"Bànclagh",
+			"Sàmchair"
 		]
 	},
 ]
