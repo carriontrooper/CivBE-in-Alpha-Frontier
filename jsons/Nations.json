@@ -553,7 +553,7 @@
 		"uniqueName": "Deniable Operations",
 		"uniques": [
 			"[+10]% Production when constructing [Stealth Infantry] units [in all cities]",
-			"[+10]% Strength <for units with [Spook] promotion>",
+			"[+10]% Strength <for units with [Spook]>",
 			"City-State territory always counts as friendly territory"
 			
 		],
