@@ -174,7 +174,7 @@
 	{
 		"name": "People's African Union",
 		"leaderName": "Samatar Jama Barre",
-		"adjective": ["PAU"],
+		"adjective": ["African Union"],
 		"startBias": ["Plains","Grassland","Desert"],
 		"preferredVictoryType":"Cultural",
 
@@ -228,7 +228,7 @@
 	{
 		"name": "Franco-Iberia",
 		"leaderName": "Elodie",
-		"adjective": ["FI"],
+		"adjective": ["Franco-Iberian"],
 		"startBias": ["Plains","Grassland","Desert"],
 		"preferredVictoryType":"Cultural",
 
@@ -323,6 +323,208 @@
 			"Udyama",
 			"Garhi",
 			"Nikhitha"
+		]
+	},
+	{
+		"name": "Brasilia",
+		"leaderName": "Rejinaldo de Alencar",
+		"adjective": ["Brasilian"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType":"Domination",
+
+		"startIntroPart1": ".",
+		"startIntroPart2": ". Can you build a colony that stands the test of time?",
+
+		"declaringWar": ".",
+		"attacked": ".",
+		"defeated": ".",
+		"introduction": ".",
+
+		"neutralHello": ".",
+		"hateHello": ".",
+
+		"tradeRequest": ".",
+
+		"outerColor": [29, 55, 105],
+		"innerColor": [0, 230, 75],
+		"favoredReligion": "Gene Purists",
+		"uniqueName": "O Caridade",
+		"uniques": [
+			"Earn [10]% of killed [Wounded] unit's [Cost] as [Culture]"
+		],
+		"cities": [
+			"Cidadela",
+			"Santo Adrião",
+			"Manoel",
+			"Dourado",
+			"Boa Esperança",
+			"Fiel",
+			"Borda Dura",
+			"Batista Aldeia",
+			"Fogo Sagrado",
+			"Paraíso",
+			"Ascensão",
+			"Terra Alegre",
+			"Lembrança",
+			"Alto Torre",
+			"Bênção",
+			"Pacífico",
+			"Caminho Celeste",
+			"Monumento",
+			"Hélder",
+			"Lugar de Paz"
+		]
+	},
+	{
+		"name": "Polystralia",
+		"leaderName": "Hutama",
+		"adjective": ["Polystralian"],
+		"startBias": ["Coastal"],
+		"preferredVictoryType":"Diplomacy",
+
+		"startIntroPart1": ".",
+		"startIntroPart2": ". Can you build a colony that stands the test of time?",
+
+		"declaringWar": ".",
+		"attacked": ".",
+		"defeated": ".",
+		"introduction": ".",
+
+		"neutralHello": ".",
+		"hateHello": ".",
+
+		"tradeRequest": ".",
+
+		"outerColor": [0, 61, 56],
+		"innerColor": [181, 222, 0],
+		"favoredReligion": "Astral Pantheon",
+		"uniqueName": "Stones Rot but Not Deeds",
+		"uniques": [
+			"[+2 Food, +1 Gold] from each Trade Route",
+			"Gifts of Gold to City-States generate [+10]% more Influence"
+		],
+		"cities": [
+			"Freeland",
+			"Jimboomba",
+			"Rangi",
+			"Pembela",
+			"Richport",
+			"Maeva",
+			"Harta",
+			"Kesempatan",
+			"Kala",
+			"New Hope",
+			"Rahi",
+			"Tenang",
+			"Mareeba",
+			"Holyfield",
+			"Mahalaga",
+			"Waspada",
+			"Kayamutan",
+			"Ballarat",
+			"Speewah"
+		]
+	},
+	{
+		"name": "Slavic Federation",
+		"leaderName": "Vadim Koslov",
+		"adjective": ["Slavic"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType":"Scientific",
+
+		"startIntroPart1": ".",
+		"startIntroPart2": ". Can you build a colony that stands the test of time?",
+
+		"declaringWar": ".",
+		"attacked": ".",
+		"defeated": ".",
+		"introduction": ".",
+
+		"neutralHello": ".",
+		"hateHello": ".",
+
+		"tradeRequest": ".",
+
+		"outerColor": [138, 25, 25],
+		"innerColor": [224, 198, 68],
+		"favoredReligion": "Posadist",
+		"uniqueName": "The People's Triumph",
+		"uniques": [
+			"Double quantity of [Titanium] produced",
+			"Double quantity of [Promethine] produced",
+			"Double quantity of [Ulframite] produced",
+			"[+10]% Production when constructing [Satellite] units [in all cities] <with [Titanium]>"
+		],
+		"cities": [
+			"Khrabrost",
+			"Uspekh",
+			"Serik",
+			"Stanimir",
+			"Konechno",
+			"Svyatoy",
+			"Kuzma",
+			"Istochnik",
+			"Yuriya",
+			"Aguya",
+			"Izot",
+			"Rodomir",
+			"Blesk",
+			"Vola",
+			"Pobeda",
+			"Neba",
+			"Averkiy",
+			"Krasota",
+			"Mir"
+		]
+	},
+	{
+		"name": "Al Falah",
+		"leaderName": "Arshia Kishk",
+		"adjective": ["Al Falah"],
+		"startBias": ["Desert"],
+		"preferredVictoryType":"Cultural",
+
+		"startIntroPart1": ".",
+		"startIntroPart2": ". Can you build a colony that stands the test of time?",
+
+		"declaringWar": ".",
+		"attacked": ".",
+		"defeated": ".",
+		"introduction": ".",
+
+		"neutralHello": ".",
+		"hateHello": ".",
+
+		"tradeRequest": ".",
+
+		"outerColor": [26, 46, 69],
+		"innerColor": [240, 209, 51],
+		"favoredReligion": "Nomadist",
+		"uniqueName": "Our Success",
+		"uniques": [
+			"[-10]% Culture cost of natural border growth [in all cities]",
+			"[+20]% Yield from every [City center]"
+		],
+		"cities": [
+			"Ard",
+			"Farah",
+			"Aswat Adida",
+			"Midfa'a",
+			"Hajar",
+			"Miah Mortafi'a",
+			"Wogohna",
+			"Dam",
+			"Masheat Allah",
+			"Zekra",
+			"Alyad",
+			"Bahr Ennour",
+			"Janna",
+			"El Ein",
+			"Moamen",
+			"Boka' Baeid",
+			"Malek",
+			"Al Akdam",
+			"Khaled"
 		]
 	},
 ]
