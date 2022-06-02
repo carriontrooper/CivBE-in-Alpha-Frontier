@@ -1,4 +1,19 @@
 [
+	/* unique ideas
+	ARC: Retail Outlet (UB), Financial Intelligence Bureau (UNW)
+	PAC: Automated Heavy Industry (UB), Urban Commune (UB)
+	African Union: Market District (UB), Peacekeeper Militia (UU)
+	Franco-Iberia: Diplomatic Office (UB), Cultural Square (UB)
+	Kavithan: Oathkeeper (UU), Sermon Station (UB)
+	Brasilia: Neo-BOPE (UU), Valente APC (UU)
+	Polystralia: Aquaponics (UI), Farmer Co-Op (UB)
+	Slavic: Orbital Industry (UB), Svyatogor Crawler (UU)
+	Al Falah: Orbital Habitat (UB), Jabal Drop-Mecha (UU)
+	Chungsu: Covert Base (UB), Underwater Complex (UB)
+	INTEGR: Integrated Farms (UB), Green Infrastructure (UB)
+	NSA: ARK Settlement (UI), Seawall (UB)
+	*/
+	
 	// victory types: Scientific, Diplomatic, Cultural, Domination
 	/* religion list
 	"Virtualism",
