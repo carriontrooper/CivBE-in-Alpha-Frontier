@@ -1,2 +1,205 @@
 [
+	{
+		"name": "Peacekeeper Militia",
+		"unitType": "Infantry",
+		"replaces": "Frontier Militia",
+		"uniqueTo": "People's African Union",
+		"movement": 2,
+		"strength": 9,
+		"cost": 35,
+		"upgradesTo": "Colony Rifleman",
+		"uniques": [
+			"May upgrade to [Colony Rifleman] through ruins-like effects",
+			"Never appears as a Barbarian unit"
+		],
+		"attackSound": "shot",
+		"promotions": ["Peacekeeper Training"],
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Frontier Militia",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{ "text": "Trained by African Union veterans, these militia forces are the first line of defense of local African Union colonies." }
+		]
+	},
+	{
+		"name": "Oathkeeper",
+		"unitType": "Infantry",
+		"replaces": "Frontier Militia",
+		"uniqueTo": "Kavithan Protectorate",
+		"movement": 2,
+		"strength": 9,
+		"cost": 40,
+		"upgradesTo": "Colony Rifleman",
+		"uniques": [
+			"May upgrade to [Colony Rifleman] through ruins-like effects",
+			"Never appears as a Barbarian unit"
+		],
+		"attackSound": "shot",
+		"promotions": ["Keeper of the Oath"],
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Frontier Militia",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{ "text": "These militia swore an oath to the Kavithan Protectorate, making them tenacious and unforgiving towards enemies and heretics." }
+		]
+	},
+	{
+		"name": "Neo-BOPE",
+		"unitType": "Infantry",
+		"replaces": "Colony Rifleman",
+		"uniqueTo": "Brasilia",
+		"movement": 2,
+		"strength": 16,
+		"cost": 80,
+		"requiredTech": "Next-Gen Armaments",
+		"upgradesTo": "Exoframe Soldier",
+		"uniques": [
+			"May upgrade to [Exoframe Soldier] through ruins-like effects",
+			"Never appears as a Barbarian unit"
+		],
+		"attackSound": "shot",
+		"promotions": ["Urban Warfare","Blitz"],
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Colony Rifleman",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{
+				"text": "Coming from a tradition of Brasilian special forces training, these hardened soldiers excel in urban combat."
+			}
+		]
+	},
+	{
+		"name": "Valente APC",
+		"unitType": "Armored",
+		"uniqueTo": "Brasilia",
+		"movement": 4,
+		"strength": 35,
+		"cost": 125,
+		"requiredTech": "Next-Gen Armaments",
+		"requiredResource": "Promethine",
+		"upgradesTo": "Colonial Armor",
+		"uniques": [
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"[+10]% Strength bonus for [Military] units within [2] tiles",
+			"[+50]% Strength <vs [Armored] units>",
+			"[+100]% Strength <vs [Infantry] units>",
+			"Only available <in cities with a [Mechanized Unit Facility]>",
+			"Consumes [1] [Promethine]",
+			"Never appears as a Barbarian unit"
+		],
+		"hurryCostModifier": 10,
+		"attackSound": "tankshot",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Colonial Armor",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{
+				"text": "A light armored vehicle, designed to support infantry in urban combat."
+			}
+		]
+	},
+	{
+		"name": "Svyatogor Crawler",
+		"unitType": "Close Range Mech",
+		"replaces": "Siege Walker",
+		"uniqueTo": "Slavic Federation",
+		"movement": 2,
+		"strength": 55,
+		"rangedStrength": 55,
+		"cost": 550,
+		"requiredTech": "Mind-Machine Interface",
+		"requiredResource": "Ulframite",
+		"uniques": [
+			"Mech",
+			"[+200]% Strength <vs cities>",
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"Can carry [2] [Missile] units",
+			"Can carry [1] [Satellite] units",
+			"[+50]% Strength <vs [Armored] units>",
+			"[+50]% Strength <when defending>",
+			"Only available <in cities with a [Mechanized Unit Facility]>",
+			"Consumes [2] [Ulframite]",
+			"Never appears as a Barbarian unit"
+		],
+		"hurryCostModifier": 20,
+		"attackSound": "tankshot",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Mobile Fortress",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{
+				"text": "Essentially a mobile launchpad, it also doubles as a massive siege unit."
+			}
+		]
+	},
+	{
+		"name": "Jabal Drop Mecha",
+		"unitType": "Close Range Mech",
+		"uniqueTo": "Al Falah",
+		"movement": 4,
+		"strength": 50,
+		"cost": 450,
+		"requiredTech": "Stasis Fields",
+		"requiredResource": "Ulframite",
+		"uniques": [
+			"Mech",
+			"May Paradrop up to [5] tiles from inside friendly territory",
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"[+50]% Strength <vs [Armored] units>",
+			"[+50]% Strength <when defending>",
+			"Only available <in cities with a [Mechanized Unit Facility]>",
+			"Consumes [1] [Ulframite]",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": ["Ignore terrain cost"],
+		"hurryCostModifier": 20,
+		"attackSound": "RapidLaser2",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Assault Mecha",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{
+				"text": "Mechs outfitted with boosters powerful enough to reach low orbit and armed with shields to withstand re-entry."
+			}
+		]
+	}
 ]
