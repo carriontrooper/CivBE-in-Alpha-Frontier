@@ -1,2 +1,13 @@
 [
+	{
+		"name": "Peacekeeper Training",
+		"uniques": ["Can construct [Emplacement] if it hasn't used other actions yet"]
+	},
+	{
+		"name": "Keeper of the Oath",
+		"uniques": [
+			"Ignores Zone of Control",
+			"Prevents spreading of religion to the city it is next to"
+		]
+	}
 ]
