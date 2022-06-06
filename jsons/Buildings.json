@@ -101,4 +101,38 @@
 			}
 		]
 	},
+	{
+		"name": "Diplomatic Office",
+		"replaces": "Bureaucratic Office",
+		"uniqueTo": "Franco-Iberia",
+		"maintenance": 1,
+		"hurryCostModifier": 15,
+		"percentStatBonus": { "production": 5, "gold": 5 },
+		"requiredTech": "Colony Administration",
+		"uniques": [
+			"[+3 Culture] <when not at war>",
+			"[-5]% maintenance cost for buildings [in this city]"
+		],
+		"civilopediaText": [
+			{
+				"text": "Envoys and dignitaries mingle with diplomats and bureaucrats in this building."
+			}
+		]
+	},
+	{
+		"name": "Cultural Square",
+		"replaces": "Rec Area",
+		"uniqueTo": "Franco-Iberia",
+		"maintenance": 1,
+		"culture": 1,
+		"happiness": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["Prefab"],
+		"requiredTech": "Hab-Domes",
+		"civilopediaText": [
+			{
+				"text": "This area provides authentic old Earth recreational and cultural activities, from sports to dances and festivals. Everyone is welcome to join."
+			}
+		]
+	},
 ]
