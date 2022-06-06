@@ -1,2 +1,104 @@
 [
+	{
+		"name": "Retail Outlet",
+		"replaces": "Megamall",
+		"uniqueTo": "American Reclamation Corporation",
+		"maintenance": 2,
+		"gold": 3,
+		"culture": 1,
+		"happiness": 2,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Arcade Room",
+		"requiredTech": "Hab-Domes",
+		"uniques": [
+			"[+1 Gold, +1 Happiness] from [Luxury resource] tiles [in this city]",
+			"[+1 Gold] from each Trade Route"
+		],
+		"civilopediaText": [
+			{
+				"text": "Various ARC branded products line its shelves, popular among the wealthy and brmming with retail profits."
+			}
+		]
+	},
+	{
+		"name": "Financial Intelligence Agency",
+		"replaces": "National Intelligence Agency",
+		"uniqueTo": "American Reclamation Corporation",
+		"cost": 125,
+		"cityStrength": 50,
+		"cityHealth": 100,
+		"isNationalWonder": true,
+		"uniques": [
+			"Requires a [Spy Satellite Network] in all cities",
+			"Consumes [1] [Digital Storage Space]",
+			"All newly-trained [Stealth Infantry] units [in this city] receive the [Spook] promotion",
+			"Cost increases by [30] per owned city"
+		],
+		"requiredTech": "Military Ballistics",
+		"civilopediaText": [
+			{
+				"text": "Ensuring ARC's financial stability, in various ways."
+			}
+		]
+	},
+	{
+		"name": "Automated Heavy Industry",
+		"replaces": "Robotics Assembly Plant",
+		"uniqueTo": "Pan-Asian Cooperative",
+		"maintenance": 1,
+		"specialistSlots": { "Engineer": 1 },
+		"hurryCostModifier": 25,
+		"percentStatBonus": { "production": 10 },
+		"requiredBuilding": "Prefab Printer",
+		"uniques": [
+			"[+10]% Production when constructing [Armored] units [in this city]",
+			"[+5]% Production when constructing [All] wonders [in this city]"
+			"[+10]% Production when constructing [All] buildings [in this city]"
+		],
+		"requiredTech": "Offworld Industries",
+		"civilopediaText": [
+			{
+				"text": "A more massive version of the Robotics Assembly Plant, and almost entirely automated."
+			}
+		]
+	},
+	{
+		"name": "Urban Commune",
+		"replaces": "Rec Area",
+		"uniqueTo": "Pan-Asian Cooperative",
+		"maintenance": 1,
+		"food": 1,
+		"production": 1,
+		"happiness": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["Prefab"],
+		"requiredTech": "Hab-Domes",
+		"civilopediaText": [
+			{
+				"text": "The cramped living conditions in ole Earth's PAC territories has resulted in a shared living space where colonists could relax - or create things, or grow things."
+			}
+		]
+	},
+	{
+		"name": "Market District",
+		"replaces": "Resource Market",
+		"uniqueTo": "People's African Union",
+		"gold": 3,
+		"food": 1,
+		"specialistSlots": { "Merchant": 1 },
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Pioneer Depot",
+		"requiredTech": "Offworld Industries",
+		"uniques": [
+			"[+1 Gold] from [Bonus resource] tiles [in this city]",
+			"[+1 Gold] from [Luxury resource] tiles [in this city]",
+			"[+1 Gold] from [Strategic resource] tiles [in this city]",
+			"[+2 Gold] <during a golden age>"
+		],
+		"civilopediaText": [
+			{
+				"text": "A sprawling general market that takes up a district, businesses of all kinds are thriving here. Try out the street food!"
+			}
+		]
+	},
 ]
