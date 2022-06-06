@@ -1,2 +1,71 @@
 [
+	{
+		"name": "Aquaponics Area",
+		"uniqueTo": "Polystralia",
+		"terrainsCanBeBuiltOn": [
+			"Coast",
+			"Ocean",
+			"Lakes"
+		],
+		"food": 2,
+		"turnsToBuild": 6,
+		"techRequired": "Old Earth Knowledge",
+		"uniques": [
+			"Can also be built on tiles adjacent to fresh water",
+			"[+1 Food] from [Fresh water] tiles <after discovering [Xeno-Grafting]>",
+			"[+1 Food] from [non-fresh water] tiles <after discovering [Genetics]>"
+		],
+		"shortcutKey": "F",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/Hydroponics Field",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{
+				"text": "Basically floating hydroponics combined with kelp beds, this ensures that more marine growth can be harvested."
+			}
+		]
+	},
+	{
+		"name": "ARK District",
+		"uniqueTo": "North Sea Alliance",
+		"terrainsCanBeBuiltOn": [
+			"Coast",
+			"Ocean",
+			"Lakes"
+		],
+		"production": 2,
+		"turnsToBuild": 10,
+		"techRequired": "Hab-Domes",
+		"uniques": [
+			"[+1 Gold] for each adjacent [Water resource]",
+			"[+1 Production] for each adjacent [ARK District]",
+			"[+1 Gold] <after discovering [Cryptocurrency]>",
+			"[+1 Production] <after discovering [Exoskeletons]>",
+			"[+1 Food] <after discovering [Genetics]>",
+			"[+1 Culture] <after discovering [Colonial Culture]>",
+			"Provides [1] [Digital Storage Space]",
+			"Provides [1] [Digital Storage Space] <after discovering [Info Networks]>"
+		],
+		//"shortcutKey": "T",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/Habitation Dome",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{
+				"text": "Heavy-duty floating platforms for habitation and industry."
+			}
+		]
+	}
 ]
