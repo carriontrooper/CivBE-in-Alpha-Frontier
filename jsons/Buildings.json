@@ -135,4 +135,90 @@
 			}
 		]
 	},
+	{
+		"name": "Sermon Station",
+		"replaces": "Congregation Space",
+		"uniqueTo": "Kavithan Protectorate",
+		"faith": 2,
+		"requiredBuilding": "Memorial",
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Hab-Domes",
+		"uniques": [
+			"Prefab",
+			"Hidden when religion is disabled",
+			"[Wounded] Units adjacent to this city heal [5] HP per turn when healing",
+			"Destroyed when the city is captured"
+		],
+		"civilopediaText": [
+			{
+				"text": "Broadcasting the Prophet Thakur's sermons, 24/7."
+			}
+		]
+	},
+	{
+		"name": "Farmer Co-op Market",
+		"uniqueTo": "Polystralia",
+		"gold": 2,
+		"food": 1,
+		"specialistSlots": { "Merchant": 1 },
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Pioneer Depot",
+		"requiredNearbyImprovedResources": ["Exotic Fruits","Fungi Pods","Rockbud","Seasilk","Tubers","Chitin","Dairy Aphid"],
+		"requiredTech": "Xeno-Grafting",
+		"uniques": [
+			"[+1 Food] from [Tubers] tiles [in this city]",
+			"[+1 Food] from [Fungi Pods] tiles [in this city]",
+			"[+1 Food] from [Exotic Fruits] tiles [in this city]",
+			"[+1 Food] from [Rockbud] tiles [in this city]",
+			"[+1 Food] from [Seasilk] tiles [in this city]",
+			"[+1 Gold] from [Chitin] tiles [in this city]",
+			"[+1 Gold] from [Dairy Aphid] tiles [in this city]"
+		],
+		"civilopediaText": [
+			{
+				"text": "Improving farmers' livelihoods by offering reasonable loans and a place to share successful agricultural methods."
+			}
+		]
+	},
+	{
+		"name": "Orbital Industry",
+		"uniqueTo": "Slavic Federation",
+		"cost": 180,
+		"maintenance": 1,
+		"production": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Satellite Networks",
+		"requiredBuilding": "Orbital Launch Facility",
+		"uniques": [
+			"Orbital",
+			"[+5]% [Production] [in this city]"
+		],
+		"civilopediaText": [
+			{
+				"text": "3D printers and assorted industrial infrastructure in orbit, benefiting greatly from the low gravity environment."
+			}
+		]
+	},
+	{
+		"name": "Orbital Space Station",
+		"uniqueTo": "Al Falah",
+		"cost": 200,
+		"science": 2,
+		"culture": 2,
+		"production": 2,
+		"food": 2,
+		"gold": 2,
+		"uniques": [
+			"Orbital",
+			"Provides [2] [Digital Storage Space]"
+		],
+		"requiredTech": "Cosmonautics",
+		"requiredBuilding": "Orbital Launch Facility",
+		"civilopediaText": [
+			{
+				"text": "An orbital station designed for human habitation, it is intended to be fully self-sufficient."
+			}
+		]
+	},
 ]
