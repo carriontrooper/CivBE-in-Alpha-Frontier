@@ -252,7 +252,7 @@
 		"uniques": [
 			"Prefab",
 			"Must be next to [Coast]",
-			"[+1 Science] <after discovering [Info Network]>",
+			"[+1 Science] <after discovering [Info Networks]>",
 			"[+1 Culture] <after discovering [Net Culture]>"
 		],
 		"requiredTech": "Colony Administration",
@@ -270,7 +270,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"uniques": [
-			"[+1 Food] from [Hydroponic Fields] tiles [in this city]",
+			"[+1 Food] from [Hydroponics Field] tiles [in this city]",
 			"[+1 Food] from [Habitation Dome] tiles [in this city]",
 			"[+1 Food] per [3] population [in this city]"
 		],
