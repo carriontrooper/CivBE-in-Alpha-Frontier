@@ -201,7 +201,7 @@
 		]
 	},
 	{
-		"name": "Orbital Space Station",
+		"name": "Orbital Habitat",
 		"uniqueTo": "Al Falah",
 		"cost": 200,
 		"science": 2,
@@ -221,4 +221,103 @@
 			}
 		]
 	},
+	{
+		"name": "Covert Base",
+		"replaces": "Military Base",
+		"uniqueTo": "Chungsu",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": [
+			"New [Military] units start with [15] Experience [in this city]",
+			"New [Stealth Infantry] units start with [15] Experience [in this city]",
+			"New [Submarine] units start with [15] Experience [in this city]",
+			"Destroyed when the city is captured"
+		],
+		"requiredBuilding": "Colonial Patrol Station",
+		"requiredTech": "Next-Gen Armaments",
+		"civilopediaText": [
+			{
+				"text": "A well-hidden and off-the-grid military base, specializing in covert ops."
+			}
+		]
+	},
+	{
+		"name": "Underwater Complex",
+		"uniqueTo": "Chungsu",
+		"maintenance": 1,
+		"happiness": 1,
+		"science": 2,
+		"production": 1,
+		"hurryCostModifier": 25,
+		"uniques": [
+			"Prefab",
+			"Must be next to [Coast]",
+			"[+1 Science] <after discovering [Info Network]>",
+			"[+1 Culture] <after discovering [Net Culture]>"
+		],
+		"requiredTech": "Colony Administration",
+		"civilopediaText": [
+			{
+				"text": "Expansive underwater tunnels and facilities for habitation and scientific matters."
+			}
+		]
+	},
+	{
+		"name": "Integrated Farms",
+		"uniqueTo": "INTEGR",
+		"food": 2,
+		"cost": 40,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": [
+			"[+1 Food] from [Hydroponic Fields] tiles [in this city]",
+			"[+1 Food] from [Habitation Dome] tiles [in this city]",
+			"[+1 Food] per [3] population [in this city]"
+		],
+		"requiredTech": "Xeno-Grafting",
+		"civilopediaText": [
+			{
+				"text": "Crops grown on and around buildings, parks yielding food vegetables, personal mini-hydroponics in every home."
+			}
+		]
+	},
+	{
+		"name": "Green Infrastructure",
+		"replaces": "Infrastructure 2.0",
+		"uniqueTo": "INTEGR",
+		"food": 2,
+		"culture": 1,
+		"specialistSlots": { "Engineer": 1 },
+		"hurryCostModifier": 25,
+		"percentStatBonus": { "food": 5, "production": 5, "gold": 5 },
+		"uniques": [
+			"Provides [1] [Digital Storage Space]",
+			"[+1 Food, +1 Gold] from [Road] tiles [in this city]",
+			"[+1 Food, +2 Gold] from [Railroad] tiles [in this city]",
+			"[+2 Food] from [Great Improvement] tiles [in this city]"
+		],
+		"requiredTech": "Colony Administration",
+		"civilopediaText": [
+			{
+				"text": "Eco-friendly materials used on infrastructure projects, renewable or long-lasting power sources, a bit more greenery in your everyday cityscape."
+			}
+		]
+	},
+	{
+		"name": "Seawall",
+		"uniqueTo": "North Sea Alliance",
+		"cityStrength": 10,
+		"cityHealth": 50,
+		"hurryCostModifier": 25,
+		"requiredTech": "Synthetic Materials",
+		"uniques": [
+			"Must be next to [Coast]",
+			"Destroyed when the city is captured"
+		],
+		"civilopediaText": [
+			{
+				"text": "A huge coastal wall to keep the water out, very useful during storms and sieges."
+			}
+		]
+	}
 ]
