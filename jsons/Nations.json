@@ -91,8 +91,8 @@
 		"startBias": ["Plains","Grassland"],
 		"preferredVictoryType":"Diplomatic",
 
-		"startIntroPart1": "ARC’s global operations require a herculean logistical effort. Thousands of client and customer relationships are managed every second, and every interaction between ARC and an outside entity must represent the company’s culture, values, and pedigree. As CEO, Fielding prioritized quality assurance and public relations without sacrificing the bottom line, much to the delight of investors and the public alike. Under her guidance, both shares and the company reputation have risen astronomically.",
-		"startIntroPart2": ". Can you build a colony that stands the test of time?",
+		"startIntroPart1": "Greetings, CEO Suzanne Fielding of the American Reclamation Corporation. You have risen through the corporate rank amidst the aftermath of the Great Mistake, and transformed ARC from an engineering and construction firm into an economic juggernaut. It is no surprise that the ARC can finance its own Seeding expeditions under your leadership.",
+		"startIntroPart2": "Suzanne, your employees look up to you as the proof of the everlasting American Dream on this new planet. Will you lead them into financial superiority? Can you build a colony that stands the test of time?",
 
 		"declaringWar": ".",
 		"attacked": ".",
@@ -134,6 +134,43 @@
 			"Empire",
 			"Venture",
 			"Enterprise"
+		],
+		"civilopediaText": [
+			{
+				"text": "Wholesale Recovery",
+				"header": 2,
+				"centered"
+			},
+			{
+				"text": "Before the Great Mistake, the privatization of government services had gained momentum in the United States. As the seas rose and the rivers flooded, crops failed and unrest threatened to tear the United States apart politically. No single government body could step in and help coordinate the crisis. But a new engineering firm specializing in ecological risk mitigation made the US government an option: Let us fix your problem, or get your money back. The Trans-Mississippi Recovery Initiative was given over to the American Reclamation Corporation, from the first shovel in the dirt to the ongoing crop cycling in the Midwest. No one can argue with the results - dust storms no longer rock Tennessee, for example - and the ARC is the biggest thing in America these days. Employing a full 23% of the population, with perhaps as much as 85% of the US relying on the ARC for their business, the business of America is the business of the ARC."
+			},
+			{
+				"text": "One-Stop Shopping",
+				"header": 2,
+				"centered"
+			},
+			{
+				"text": "There is no project, program, or market where the ARC does not take an active interest. In addition to its engineering and construction programs, the ARC is also a major drug developer, a retail giant (although ironically ARC Singapore is the largest ARC outlet by square footage and business), and an advertising service provider. Its entertainment division consolidated most of the old entertainment brands decades ago, and streams ARC-funded entertainment over ARC satellite or through ARC-laid cable to the rest of the world. The ARC logo adorns everything from cars to phones to supertankers to antibacterial drugs. What the ARC doesn't make or market, it often finances. The ARC's financial arm is widely invested around the world, trading on the company's massive balance sheet."
+			},
+			{
+				"text": "Investment in the Future",
+				"header": 2,
+				"centered"
+			},
+			{
+				"text": "Although many people view the ARC with deep skepticism or outright hatred, the ARC is not a company that trades in short-term gain. The ARC is willing to invest in people and communities, although it expects that investment to bear fruit in time. The ARC was the first entirely-private organization to announce it would undertake Seeding projects on its own balance sheet, although it also acts as contractor or financier on many other Seeding programs around the world."
+			},
+			{
+				"text": "Stellar Capitalism",
+				"header": 2,
+				"centered"
+			},
+			{
+				"text": "With access to nearly unlimited funds and resources, the ARC interstellar ships were high-tech, large, and luxurious compared to those launched by other governments. Staffed by the best and brightest that the corporation could recruit, the ARC colonial missions set a new standard for success and expectations. Those undersigning with an ARC expedition are well advised to read the contract closely. The ARC wishes them well, and looks forward to a return on their investment as soon as possible."
+			},
+			{
+				"separator"
+			}
 		]
 	},
 	{
