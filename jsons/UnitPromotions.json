@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Peacekeeper Training",
-		"uniques": ["Can construct [Emplacement] if it hasn't used other actions yet"]
+		"uniques": ["Can construct [Emplacement] <if it hasn't used other actions yet>"]
 	},
 	{
 		"name": "Keeper of the Oath",
