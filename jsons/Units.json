@@ -107,7 +107,7 @@
 			"Never appears as a Barbarian unit"
 		],
 		"hurryCostModifier": 10,
-		"attackSound": "tankshot",
+		"attackSound": "machinegun",
 		"civilopediaText": [
 			/*
 			{
