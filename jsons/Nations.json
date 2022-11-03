@@ -94,15 +94,15 @@
 		"startIntroPart1": "Greetings, CEO Suzanne Fielding of the American Reclamation Corporation. You have risen through the corporate rank amidst the aftermath of the Great Mistake, and transformed ARC from an engineering and construction firm into an economic juggernaut. It is no surprise that the ARC can finance its own Seeding expeditions under your leadership.",
 		"startIntroPart2": "Suzanne, your employees look up to you as the proof of the everlasting American Dream on this new planet. Will you lead them into financial superiority? Can you build a colony that stands the test of time?",
 
-		"declaringWar": ".",
-		"attacked": ".",
-		"defeated": ".",
-		"introduction": ".",
+		"declaringWar": "The cost-benefit analysis is clear. You're a net loss for this world, and it's time you were cut.",
+		"attacked": "Your military is in direct violation of interstellar protocol. Cease and desist or suffer the consequences.",
+		"defeated": "You've made a terrible mistake. We could've been partners.",
+		"introduction": "The American Reclamation Corporation is here to help.",
 
-		"neutralHello": ".",
-		"hateHello": ".",
+		"neutralHello": "What can ARC do for you?",
+		"hateHello": "For your information, this conversation may be recorded and used against you.",
 
-		"tradeRequest": ".",
+		"tradeRequest": "We have this opportunity for you. What's your take?",
 
 		"outerColor": [4, 54, 107],
 		"innerColor": [79, 207, 231],
@@ -183,15 +183,15 @@
 		"startIntroPart1": ".",
 		"startIntroPart2": ". Can you build a colony that stands the test of time?",
 
-		"declaringWar": ".",
-		"attacked": ".",
-		"defeated": ".",
-		"introduction": ".",
+		"declaringWar": "There is no longer a logical alternative. This is the only path with a probable expectation of success.",
+		"attacked": "Your military actions are reprehensible. I suggest you change your foreign policy to a more peaceful one.",
+		"defeated": "You are a vicious, barbaric dictator, and you should be ashamed that you will be remembered as such.",
+		"introduction": "Hello, I am the Secretary-Architect of the Pan-Asian Cooperative. I welcome you on behalf of our colony.",
 
-		"neutralHello": ".",
-		"hateHello": ".",
+		"neutralHello": "Greetings from our colony to yours.",
+		"hateHello": "You are annoying.",
 
-		"tradeRequest": ".",
+		"tradeRequest": "This agreement is practically guaranteed to benefit both of our colonies. So, of course you will accept?",
 
 		"outerColor": [56, 27, 121],
 		"innerColor": [228, 36, 235],
@@ -278,15 +278,15 @@
 		"startIntroPart1": "The 'People's' African Union was one of the first organizations to embrace the Seeding. Leading African scientists were pivotal during the Inflection Point discovery, and the Union was well prepared to lead humanity into space. While well-prepared, the issue was extremely divisive for the much of the population of the Union. Samatar Jama Barre himself, one of the major proponents of the Seeding venture still carries a small piece of soil from his birthplace.",
 		"startIntroPart2": ". Can you build a colony that stands the test of time?",
 
-		"declaringWar": ".",
-		"attacked": ".",
-		"defeated": ".",
-		"introduction": ".",
+		"declaringWar": "Though I may weep for your fate, I won't turn away from what must be done.",
+		"attacked": "I like to think I'm reasonable. I can allow a lot of things, but never warmongering. Never.",
+		"defeated": "The People's African Union may be defeated, but the voice of our people will echo long after the sounds of war are gone.",
+		"introduction": "Many fortunes to you and your family. I am Samatar Jama Barre of the People's African Union, but please, call me Kubwa Mjomba.",
 
-		"neutralHello": ".",
-		"hateHello": ".",
+		"neutralHello": "So dhowow.",
+		"hateHello": "How dare you show your face? Do you have no shame?",
 
-		"tradeRequest": "No village was ever ruined by trade.",
+		"tradeRequest": "Tell me, friend, is this not a bargain?",
 
 		"outerColor": [80, 21, 8],
 		"innerColor": [250, 106, 20],
@@ -332,15 +332,15 @@
 		"startIntroPart1": ".",
 		"startIntroPart2": ". Can you build a colony that stands the test of time?",
 
-		"declaringWar": ".",
-		"attacked": ".",
-		"defeated": ".",
-		"introduction": ".",
+		"declaringWar": "Some people simply refuse to learn. I'd had enough of you, and your revolting colony.",
+		"attacked": "You are reminding us of a certain, self-proclaimed imperial Corsican. And we all remember what happened to him, don't we?",
+		"defeated": "Après moi, le déluge.",
+		"introduction": "Greetings, I am Élodie. I look forward to our time together on this brave new world.",
 
-		"neutralHello": ".",
-		"hateHello": ".",
+		"neutralHello": "Bonjour, hello.",
+		"hateHello": "I was expecting someone important...",
 
-		"tradeRequest": ".",
+		"tradeRequest": "This is to my liking, what do you think, dear?",
 
 		"outerColor": [54, 107, 166],
 		"innerColor": [182, 196, 219],
@@ -382,15 +382,15 @@
 		"startIntroPart1": ".",
 		"startIntroPart2": ". Can you build a colony that stands the test of time?",
 
-		"declaringWar": ".",
-		"attacked": ".",
-		"defeated": ".",
-		"introduction": ".",
+		"declaringWar": "Our spirit has sufferend long enough from your reckless ways. Only the flame can cleanse you now.",
+		"attacked": "Why do you continue with intimidation tactics? Do you think your shows of aggression will change anything? You should keep to yourself.",
+		"defeated": "May the Lord of the Cosmos forgive you, and welcome you into oblivion. The Demon of Nihility persists, and we but atoms of ephemera.",
+		"introduction": "As our third mother welcomes us, so too does my colony greet yours. We are, all of us, home at last.",
 
-		"neutralHello": ".",
-		"hateHello": ".",
+		"neutralHello": "Hello, and peace be with you.",
+		"hateHello": "Your kind does not deserve my wisdom, but I am not the judge.",
 
-		"tradeRequest": ".",
+		"tradeRequest": "May we both be blessed by this agreement.",
 
 		"outerColor": [96, 16, 110],
 		"innerColor": [0, 216, 186],
@@ -432,15 +432,15 @@
 		"startIntroPart1": "The Academia Militar das Agulhas Negras is famous for its all-terrain survival training course known as Las Lomas de Arena. Once a Parque Regional, this restricted area is loved by instructors for its utility in separating the weak from the strong. The 10 mile course includes rainforest, 30 meter high sand dunes, river crossings, pulse plasma sentries, low-charge ion minefields, and irradiated swampland. One does not run the Lomas course, one survives it. The first and only cadet to ever complete the course intact is none other than the Supreme Commander of Brasilia, the Lion of Peshawar, Rejinaldo Leonardo Pedro Bolivar de Alencar-Araripe.",
 		"startIntroPart2": ". Can you build a colony that stands the test of time?",
 
-		"declaringWar": ".",
-		"attacked": ".",
-		"defeated": ".",
-		"introduction": ".",
+		"declaringWar": "It is time to settle this on the field. May the greater general win.",
+		"attacked": "Aggressive militaries make me angry. You wouldn't like me when I’m angry.",
+		"defeated": "Let me be remembered for what I accomplished on Earth, rather than for what you've destroyed here.",
+		"introduction": "I am Rejinaldo Leonardo Pedro Bolivar de Alencar-Araripe, Supreme Commander of Brasilia. It's a pleasure to meet you.",
 
-		"neutralHello": ".",
-		"hateHello": ".",
+		"neutralHello": "Welcome. Shall we begin?",
+		"hateHello": "What a disgrace...",
 
-		"tradeRequest": ".",
+		"tradeRequest": "These are good terms, no?",
 
 		"outerColor": [29, 55, 105],
 		"innerColor": [0, 230, 75],
@@ -482,15 +482,15 @@
 		"startIntroPart1": ".",
 		"startIntroPart2": ". Can you build a colony that stands the test of time?",
 
-		"declaringWar": ".",
-		"attacked": ".",
-		"defeated": ".",
-		"introduction": ".",
+		"declaringWar": "Disappointed? Not half as much as I am. I thought there was hope for you, but you sure proved me wrong.",
+		"attacked": "Just keep those guns pointed away from us, and we'll get along fine.",
+		"defeated": "I knew this was a mistake. I should've trusted my instincts. To the victor go the spoils, I guess...",
+		"introduction": "On behalf of the Commonwealth, I welcome you to Freeland.",
 
-		"neutralHello": ".",
-		"hateHello": ".",
+		"neutralHello": "G'day, mate.",
+		"hateHello": "Look, don't you have someone else to bother?",
 
-		"tradeRequest": ".",
+		"tradeRequest": "Boy, do I have a deal for you...",
 
 		"outerColor": [0, 61, 56],
 		"innerColor": [181, 222, 0],
@@ -532,15 +532,15 @@
 		"startIntroPart1": ".",
 		"startIntroPart2": ". Can you build a colony that stands the test of time?",
 
-		"declaringWar": ".",
-		"attacked": ".",
-		"defeated": ".",
-		"introduction": ".",
+		"declaringWar": "We are finished with you. War begins now.",
+		"attacked": "Stop your military aggression. It does not intimidate us.",
+		"defeated": "You defeated the Slavic Federation. That is not an easy thing to do. Good work.",
+		"introduction": "Hello. I am General Kozlov Vadim Petrovich of the Slavic Federation.",
 
-		"neutralHello": ".",
-		"hateHello": ".",
+		"neutralHello": "Hello.",
+		"hateHello": "Your point?",
 
-		"tradeRequest": ".",
+		"tradeRequest": "I propose this agreement. Do you accept?",
 
 		"outerColor": [138, 25, 25],
 		"innerColor": [224, 198, 68],
@@ -584,15 +584,15 @@
 		"startIntroPart1": "Al Falah is known as a phoenix-like collective of resilient and determined people; however, it is more than just a tenacious movement. Aboard the waking Seedships, the people of Al Falah lived a relatively comfortable life in a simulated-gravity environment aboard the “waking” Seedships. Special attention had been paid to creating and preserving as much of an Earth-like ambiance as possible. Elaborate, artificial terrariums and nurseries housed valuable pieces of Al Falah’s heritage, and ensured that the people would never forget their homeland.",
 		"startIntroPart2": ". Can you build a colony that stands the test of time?",
 
-		"declaringWar": ".",
-		"attacked": ".",
-		"defeated": ".",
-		"introduction": ".",
+		"declaringWar": "You are not good for this world. It is time you went back to sleep.",
+		"attacked": "Violence is your answer to everything, isn't it? It won't solve all of your problems.",
+		"defeated": "We have seen things you sleepers couldn't imagine. It may be time to die, but the dream of Al Falah lives on.",
+		"introduction": "I am Arshia Kishk of Al Falah. We've travelled for centuries, through light years of space, and we are finally home.",
 
-		"neutralHello": ".",
-		"hateHello": ".",
+		"neutralHello": "I am ready to talk if you are.",
+		"hateHello": "I wish I never had to see you. Let's get this over with.",
 
-		"tradeRequest": ".",
+		"tradeRequest": "I would like to propose this deal, for the better of both our people.",
 
 		"outerColor": [26, 46, 69],
 		"innerColor": [240, 209, 51],
@@ -634,15 +634,15 @@
 		"startIntroPart1": ".",
 		"startIntroPart2": ". Can you build a colony that stands the test of time?",
 
-		"declaringWar": ".",
-		"attacked": ".",
-		"defeated": ".",
-		"introduction": ".",
+		"declaringWar": "Our patience is at an end. You must be removed from play.",
+		"attacked": "Your military actions are disconcerting. We are monitoring the situation closely.",
+		"defeated": "The dossier on you did not accurately reflect your resourcefulness. Well played, waegukin.",
+		"introduction": "Just as we expected. Greetings, waegukin. The pleasure is ours.",
 
-		"neutralHello": ".",
-		"hateHello": ".",
+		"neutralHello": "We were expecting you.",
+		"hateHello": "Hahaha, waegukin, come to beg?",
 
-		"tradeRequest": ".",
+		"tradeRequest": "We assembled this agreement for your eyes only. What are your thoughts?",
 
 		"outerColor": [0, 0, 51],
 		"innerColor": [0, 207, 26],
@@ -686,15 +686,15 @@
 		"startIntroPart1": ".",
 		"startIntroPart2": ". Can you build a colony that stands the test of time?",
 
-		"declaringWar": ".",
-		"attacked": ".",
-		"defeated": ".",
-		"introduction": ".",
+		"declaringWar": "Politics has run its course. Let me simplify the situation for you.",
+		"attacked": "You can't possibly claim that your use of military force is warranted. 'Might' stopped making 'Right' a long time ago.",
+		"defeated": "It is our hope that a new generation of people will carry on our mission, despite your attempts to eradicate it. If you can't join us, at least learn from us.",
+		"introduction": "On behalf of INTEGR, I greet you and wish your colony luck. And if we can learn to work together, neither of us will need it.",
 
-		"neutralHello": ".",
-		"hateHello": ".",
+		"neutralHello": "Geht es Ihnen gut?",
+		"hateHello": "What makes you think I want to talk with you?",
 
-		"tradeRequest": ".",
+		"tradeRequest": "Here is our proposal. It's as good a deal as you're going to get from anyone. Take your time to look it over.",
 
 		"outerColor": [82, 3, 0],
 		"innerColor": [69, 173, 120],
@@ -736,15 +736,15 @@
 		"startIntroPart1": ".",
 		"startIntroPart2": ". Can you build a colony that stands the test of time?",
 
-		"declaringWar": ".",
-		"attacked": ".",
-		"defeated": ".",
-		"introduction": ".",
+		"declaringWar": "Ye scunner, I hope you're ready for this. Time to put you down for good.",
+		"attacked": "Do you honestly believe you can scare us with all of your military's footerin? You'd have to plowt us better than that to make an impression.",
+		"defeated": "Quite a sotter we got ourselves into... and you deserve the recognition. Cheers to the victor.",
+		"introduction": "How do you do? I'm Duncan Hughes of the North Sea Alliance. It's good to see we're not alone.",
 
-		"neutralHello": ".",
-		"hateHello": ".",
+		"neutralHello": "Good day to you.",
+		"hateHello": "You must be daft, coming here.",
 
-		"tradeRequest": ".",
+		"tradeRequest": "All right, so what do you think about this proposal, then? It'll help both of us, that's for sure.",
 
 		"outerColor": [82, 40, 15],
 		"innerColor": [87, 133, 236],
