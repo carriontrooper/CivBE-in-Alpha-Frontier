@@ -88,3 +88,59 @@ NationIcons/Slavic Federation
   orig: 100, 100
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/ARK District
+  rotate: false
+  xy: 1300, 64
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Aquaponics Area
+  rotate: false
+  xy: 1300, 16
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Jabal Drop Mecha
+  rotate: false
+  xy: 1340, 76
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Neo-BOPE
+  rotate: false
+  xy: 1340, 40
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Oathkeeper
+  rotate: false
+  xy: 1380, 76
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Peacekeeper Militia
+  rotate: false
+  xy: 1380, 40
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Svyatogor Crawler
+  rotate: false
+  xy: 1420, 76
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Valente APC
+  rotate: false
+  xy: 1420, 40
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
