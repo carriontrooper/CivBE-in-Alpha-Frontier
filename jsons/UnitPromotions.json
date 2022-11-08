@@ -2,7 +2,7 @@
 	{
 		"name": "Peacekeeper Training",
 		"uniques": ["Can construct [Emplacement] <if it hasn't used other actions yet>"],
-		"row": 118,
+		"row": 119,
         "column": 0
 	},
 	{
@@ -11,7 +11,7 @@
 			"Ignores Zone of Control",
 			"Prevents spreading of religion to the city it is next to"
 		],
-		"row": 119,
+		"row": 120,
         "column": 0
 	}
 ]
