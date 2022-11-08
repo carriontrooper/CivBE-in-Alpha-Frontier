@@ -15,12 +15,10 @@
 		"attackSound": "shot",
 		"promotions": ["Peacekeeper Training"],
 		"civilopediaText": [
-			/*
 			{
-				"extraImage": "TileSets/FantasyHex/Units/Frontier Militia",
+				"extraImage": "TileSets/FantasyHex/Units/Peacekeeper Militia",
 				"imageSize": 64
 			},
-			*/
 			{
 				"Separator": true
 			},
@@ -43,12 +41,10 @@
 		"attackSound": "shot",
 		"promotions": ["Keeper of the Oath"],
 		"civilopediaText": [
-			/*
 			{
-				"extraImage": "TileSets/FantasyHex/Units/Frontier Militia",
+				"extraImage": "TileSets/FantasyHex/Units/Oathkeeper",
 				"imageSize": 64
 			},
-			*/
 			{
 				"Separator": true
 			},
@@ -72,12 +68,10 @@
 		"attackSound": "shot",
 		"promotions": ["Urban Warfare","Blitz"],
 		"civilopediaText": [
-			/*
 			{
-				"extraImage": "TileSets/FantasyHex/Units/Colony Rifleman",
+				"extraImage": "TileSets/FantasyHex/Units/Neo-BOPE",
 				"imageSize": 64
 			},
-			*/
 			{
 				"Separator": true
 			},
@@ -109,12 +103,10 @@
 		"hurryCostModifier": 10,
 		"attackSound": "machinegun",
 		"civilopediaText": [
-			/*
 			{
-				"extraImage": "TileSets/FantasyHex/Units/Colonial Armor",
+				"extraImage": "TileSets/FantasyHex/Units/Valente APC",
 				"imageSize": 64
 			},
-			*/
 			{
 				"Separator": true
 			},
@@ -150,12 +142,10 @@
 		"hurryCostModifier": 20,
 		"attackSound": "tankshot",
 		"civilopediaText": [
-			/*
 			{
-				"extraImage": "TileSets/FantasyHex/Units/Mobile Fortress",
+				"extraImage": "TileSets/FantasyHex/Units/Svyatogor Crawler",
 				"imageSize": 64
 			},
-			*/
 			{
 				"Separator": true
 			},
@@ -188,12 +178,10 @@
 		"hurryCostModifier": 20,
 		"attackSound": "RapidLaser2",
 		"civilopediaText": [
-			/*
 			{
-				"extraImage": "TileSets/FantasyHex/Units/Assault Mecha",
+				"extraImage": "TileSets/FantasyHex/Units/Jabal Drop Mecha",
 				"imageSize": 64
 			},
-			*/
 			{
 				"Separator": true
 			},
