@@ -17,12 +17,10 @@
 		],
 		"shortcutKey": "F",
 		"civilopediaText": [
-			/*
 			{
-				"extraImage": "TileSets/FantasyHex/Tiles/Hydroponics Field",
+				"extraImage": "TileSets/FantasyHex/Tiles/Aquaponics Area",
 				"imageSize": 64
 			},
-			*/
 			{
 				"Separator": true
 			},
@@ -54,12 +52,10 @@
 		],
 		//"shortcutKey": "T",
 		"civilopediaText": [
-			/*
 			{
-				"extraImage": "TileSets/FantasyHex/Tiles/Habitation Dome",
+				"extraImage": "TileSets/FantasyHex/Tiles/ARK District",
 				"imageSize": 64
 			},
-			*/
 			{
 				"Separator": true
 			},
