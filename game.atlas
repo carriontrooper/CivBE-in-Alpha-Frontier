@@ -55,92 +55,106 @@ NationIcons/Kavithan Protectorate
   index: -1
 NationIcons/North Sea Alliance
   rotate: false
-  xy: 760, 4
+  xy: 868, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Pan-Asian Cooperative
   rotate: false
-  xy: 868, 4
+  xy: 976, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/People's African Union
   rotate: false
-  xy: 976, 4
+  xy: 1192, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Polystralia
   rotate: false
-  xy: 1084, 4
+  xy: 1300, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Slavic Federation
   rotate: false
-  xy: 1192, 4
+  xy: 1408, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/ARK District
   rotate: false
-  xy: 1300, 64
+  xy: 1516, 64
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Aquaponics Area
   rotate: false
-  xy: 1300, 16
+  xy: 1516, 16
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Jabal Drop Mecha
   rotate: false
-  xy: 1340, 76
+  xy: 1556, 76
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Neo-BOPE
   rotate: false
-  xy: 1340, 40
+  xy: 1556, 40
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Oathkeeper
   rotate: false
-  xy: 1380, 76
+  xy: 1596, 76
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Peacekeeper Militia
   rotate: false
-  xy: 1380, 40
+  xy: 1596, 40
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Svyatogor Crawler
   rotate: false
-  xy: 1420, 76
+  xy: 1636, 76
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Valente APC
   rotate: false
-  xy: 1420, 40
+  xy: 1636, 40
   size: 32, 28
   orig: 32, 28
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Keeper of the Oath
+  rotate: false
+  xy: 760, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Peacekeeper Training
+  rotate: false
+  xy: 1084, 4
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
