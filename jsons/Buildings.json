@@ -24,13 +24,14 @@
 		"name": "Financial Intelligence Agency",
 		"replaces": "National Intelligence Agency",
 		"uniqueTo": "American Reclamation Corporation",
-		"cost": 125,
-		"cityStrength": 50,
-		"cityHealth": 100,
+		"cost": 200,
+		"cityStrength": 30,
+		"cityHealth": 30,
 		"isNationalWonder": true,
 		"uniques": [
 			"Requires a [Spy Satellite Network] in all cities",
 			"Consumes [1] [Digital Storage Space]",
+			"[+1 Gold] from all [Gold] buildings",
 			"All newly-trained [Stealth Infantry] units [in this city] receive the [Spook] promotion",
 			"Cost increases by [30] per owned city"
 		],
@@ -93,7 +94,7 @@
 			"[+1 Gold] from [Bonus resource] tiles [in this city]",
 			"[+1 Gold] from [Luxury resource] tiles [in this city]",
 			"[+1 Gold] from [Strategic resource] tiles [in this city]",
-			"[+2 Gold] <during a Golden Age>"
+			"[+2 Gold] <during We Love The King Day>"
 		],
 		"civilopediaText": [
 			{
