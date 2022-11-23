@@ -982,7 +982,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [50, 50, 50],
-		"innerColor": [20, 100, 200],
+		"innerColor": [222, 116, 55],
 		"cities": ["Stet Mining"]
 	},
 	{
@@ -994,7 +994,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [50, 50, 50],
-		"innerColor": [20, 100, 200],
+		"innerColor": [222, 116, 55],
 		"cities": ["Shackleton"]
 	}
 ]
