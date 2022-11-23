@@ -180,8 +180,8 @@
 		"startBias": ["Plains","Grassland"],
 		"preferredVictoryType":"Cultural",
 
-		"startIntroPart1": ".",
-		"startIntroPart2": ". Can you build a colony that stands the test of time?",
+		"startIntroPart1": "Ni Hao, Secretary-Architect Daoming Sochua of the Pan-Asian Collective. Your genius has brought you to the forefront of the PAC scientific community and brought it out of the chaos of the Great Mistake. Your achievements are numerous both as a scientist and an administrator. It is no surprise when the PAC decides to send a colony ship as part of the Seeding, you volunteered to be mission leader to ensure its success.",
+		"startIntroPart2": "Daoming, your colonists respect you to lead this colony. Will you drive them to achieve great wonders? Can you build a colony that stands the test of time?",
 
 		"declaringWar": "There is no longer a logical alternative. This is the only path with a probable expectation of success.",
 		"attacked": "Your military actions are reprehensible. I suggest you change your foreign policy to a more peaceful one.",
@@ -275,8 +275,8 @@
 		"startBias": ["Plains","Grassland","Desert"],
 		"preferredVictoryType":"Domination",
 
-		"startIntroPart1": "The 'People's' African Union was one of the first organizations to embrace the Seeding. Leading African scientists were pivotal during the Inflection Point discovery, and the Union was well prepared to lead humanity into space. While well-prepared, the issue was extremely divisive for the much of the population of the Union. Samatar Jama Barre himself, one of the major proponents of the Seeding venture still carries a small piece of soil from his birthplace.",
-		"startIntroPart2": ". Can you build a colony that stands the test of time?",
+		"startIntroPart1": "So Dhowow, Samatar Jama Barre of the People's African Union. You were once a mere militia-men of the PAU - but you rose through the ranks through your skills in diplomacy. Your troops are loyal to you, and they view you as their 'great uncle' - but your most memorable achievement was brokering with the PAC and ARC to advance the PAU. As the most capable candidate, you were elected as the colonial governor for the PAU's Seeding program.",
+		"startIntroPart2": "Kubwa Mjomba Samatar, your people look to you to bring Africa into the stars. Will you create a prosperous colony? Can you build a colony that stands the test of time?",
 
 		"declaringWar": "Though I may weep for your fate, I won't turn away from what must be done.",
 		"attacked": "I like to think I'm reasonable. I can allow a lot of things, but never warmongering. Never.",
@@ -290,7 +290,7 @@
 
 		"outerColor": [80, 21, 8],
 		"innerColor": [250, 106, 20],
-		"favoredReligion": "Neo-Monolith",
+		"favoredReligion": "Astral Pantheon",
 		"uniqueName": "African Abundance",
 		"uniques": [
 			"[+10]% [Food] [in all cities] <while the empire is happy>",
@@ -320,6 +320,51 @@
 			"Hoodo",
 			"Liiban",
 			"Roonaan"
+		],
+		"civilopediaText": [
+			{
+				"text": "A Continent Divided",
+				"header": 2,
+				"centered": true
+			},
+			{
+				"text": "Although untouched by the consequences of the Great Mistake, the African continent suffered from the migration of those fleeing their homes. As the seas rose, more refugees retreated from North Africa and coastal African nations. The humanitarian disaster shattered the fragile economies of many of the African nations, and destabilized regimes across the region. A generation-long cycle of coups and short-lived dictatorships, as well as an epidemic of border wars, tore Africa apart. While much of North Africa would eventually join the Franco-Iberian European Union, alleviating some of the pressure, the sub-Saharan nations struggled to return to order."
+			},
+			{
+				"text": "Forged in Crisis",
+				"header": 2,
+				"centered": true
+			},
+			{
+				"text": "Into that breach stepped the leaders of the old African Union and COMESA (the Common Market for Eastern and Southern Africa). Both organizations had been established for decades and were regarded highly among Africans. Drawing on its original charter, members of the old African Union sought to provide political and military stability by invoking heretofore ignored supranational powers. Led by some of the original COMESA founding states, the revamped “People’s” African Union was formed. Several of the more progressive other African nations quickly joined; then more stable republics of sub-Saharan Africa followed. Other states, however, were governed by dictators or torn by civil wars, and refused."
+			},
+			{
+				"text": "A New Union",
+				"header": 2,
+				"centered": true
+			},
+			{
+				"text": "The largest members of the new People’s African Union merged their military forces into a unified command and stepped in to end the unrest and political disruption, replacing the old despots with new regimes that promptly joined the Union. Even as that task continued, the military moved against local bandits, pirates, warlords, and others that threatened all citizens of the envisioned united Africa. New military traditions arose, and a new sense of pride was instilled into the pursuit of a military career. A number of grateful member states of the African Union elected or appointed military officers as their leaders."
+			},
+			{
+				"text": "Recovery",
+				"header": 2,
+				"centered": true
+			},
+			{
+				"text": "Meanwhile, COMESA – propelled by its ties to the old and new African unions – moved to bring economic stability and prosperity to the continent. Instituting a unified currency was the first step; demolishing the tariff and taxation schemes of the various member states as they were added was another. COMESA involvement in the new Africa eventually turned to tapping its prodigious natural and agricultural resources, while attempting to maintain its ecological diversity and heritage through extensive wildlife parks and natural wonders. Funded projects included dams, new energy sources such as wind-farms, and coastal and Congolese reclamation efforts. The African Common Market also invested heavily in education for the post-Mistake generations and in humanitarian projects, notably in the realms of health care and human rights. New industries were pursued, and the Union became one of the major players in international trade. But problems remain, although the People’s African Union continues to implement policies to address these. Notable are the remnants of nepotism and corruption that plague some of the member nations, and the occasional flare-ups of tribal and/or religious conflict."
+			},
+			{
+				"text": "Outward Bound",
+				"header": 2,
+				"centered": true
+			},
+			{
+				"text": "As with many things in the Union, the merchants and traders took the leading role when the Seeding began. Most of the missions launched were led and populated by prominent regional businessmen and respected civil servants. Although the governance and characteristics of the dozens of colonies would take many forms, all had their roots deep in African history and culture. While it may be facile to claim that it takes a village to raise a child, it may be said with certainty that it takes a village to survive as a colony on a distant world. The attitude of the African colonial administration is best summed up by the unofficial motto of the People’s African Union, the ancient Bondei proverb that says, “Sticks in a bundle are unbreakable.”"
+			},
+			{
+				"separator": true
+			}
 		]
 	},
 	{
@@ -344,7 +389,7 @@
 
 		"outerColor": [54, 107, 166],
 		"innerColor": [182, 196, 219],
-		"favoredReligion": "Astral Pantheon",
+		"favoredReligion": "Neo-Monolith",
 		"uniqueName": "Bastion of Culture",
 		"uniques": [
 			"Provides 1 happiness per 2 additional social policies adopted",
