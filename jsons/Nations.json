@@ -776,4 +776,225 @@
 			"Sàmchair"
 		]
 	},
+	
+	// Outposts
+	// Cultural
+	{
+		"name": "Palatine",
+		"adjective": ["Palatine"],
+		"cityStateType": "Cultural",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [197, 55, 222],
+		"cities": ["Palatine"]
+	},
+	{
+		"name": "New Babylon",
+		"adjective": ["New Babylonian"],
+		"cityStateType": "Cultural",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [197, 55, 222],
+		"cities": ["New Babylon"]
+	},
+	{
+		"name": "Keagungan",
+		"adjective": ["Keagungan"],
+		"cityStateType": "Cultural",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [197, 55, 222],
+		"cities": ["Keagungan"]
+	},
+	
+	// Agricultural
+	{
+		"name": "Omoikane",
+		"adjective": ["Omoikane"],
+		"cityStateType": "Agricultural",
+		"startBias": ["Grassland"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [114, 222, 55],
+		"cities": ["Omoikane"]
+	},
+	{
+		"name": "Hekima Station",
+		"adjective": ["Hekima"],
+		"cityStateType": "Agricultural",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [114, 222, 55],
+		"cities": ["Hekima Station"]
+	},
+	
+	// Economic
+	{
+		"name": "Red Sun",
+		"adjective": ["Red Sun"],
+		"cityStateType": "Economic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [222, 200, 55],
+		"cities": ["Red Sun"]
+	},
+	{
+		"name": "Camp Cascade",
+		"adjective": ["Camp Cascade"],
+		"cityStateType": "Economic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [222, 200, 55],
+		"cities": ["Camp Cascade"]
+	},
+	
+	// Militaristic
+	{
+		"name": "Fort Barca",
+		"adjective": ["Barca"],
+		"cityStateType": "Militaristic",
+		"startBias": ["Desert"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [200, 55, 25],
+		"cities": ["Fort Barca"]
+	},
+	{
+		"name": "Far Base One",
+		"adjective": ["Far Base One"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [200, 55, 25],
+		"cities": ["Far Base One"]
+	},
+	
+	// Religious
+	{
+		"name": "Church of Dawn's Light",
+		"adjective": ["Dawn's Light"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [55, 200, 222],
+		"cities": ["Church of Dawn's Light"]
+	},
+	{
+		"name": "Lalibela",
+		"adjective": ["Lalibelan"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [55, 200, 222],
+		"cities": ["Lalibela"]
+	},
+	{
+		"name": "Golden Bell Temple",
+		"adjective": ["Golden Bell"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [55, 200, 222],
+		"cities": ["Golden Bell Temple"]
+	},
+	
+	// Scientific
+	{
+		"name": "Jinsoku Labs",
+		"adjective": ["Jinsoku"],
+		"cityStateType": "Scientific",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [20, 100, 200],
+		"cities": ["Jinsoku Labs"]
+	},
+	{
+		"name": "Banu Musa",
+		"adjective": ["Banu Musa"],
+		"cityStateType": "Scientific",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [20, 100, 200],
+		"cities": ["Banu Musa"]
+	},
+	{
+		"name": "Adept Blue",
+		"adjective": ["Adept Blue"],
+		"cityStateType": "Scientific",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [20, 100, 200],
+		"cities": ["Adept Blue"]
+	},
+	
+	// Industrial
+	{
+		"name": "Stet Mining",
+		"adjective": ["Stet"],
+		"cityStateType": "Industrial",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [20, 100, 200],
+		"cities": ["Stet Mining"]
+	},
+	{
+		"name": "Shackleton",
+		"adjective": ["Shackleton"],
+		"cityStateType": "Industrial",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [20, 100, 200],
+		"cities": ["Shackleton"]
+	}
 ]
