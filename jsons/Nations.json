@@ -369,13 +369,13 @@
 	},
 	{
 		"name": "Franco-Iberia",
-		"leaderName": "Elodie",
+		"leaderName": "Élodie",
 		"adjective": ["Franco-Iberian"],
 		"startBias": ["Plains","Grassland","Desert"],
 		"preferredVictoryType":"Cultural",
 
-		"startIntroPart1": ".",
-		"startIntroPart2": ". Can you build a colony that stands the test of time?",
+		"startIntroPart1": "Bonjour, Élodie of the Franco-Iberian Union. You were steeped in high culture since your early life, your charisma and wit propelled you into the political elite of the Franco-Iberian Union. Using the media to sway people's opinion, you proposed to create a Western cultural archive - in a new offworld colony. Thus having your cultural heritage secured, you soon joined the others in the race to the stars.",
+		"startIntroPart2": "Élodie, your audience are watching with great interest. Will you create a cultural utopia in this new world? Can you build a colony that stands the test of time?",
 
 		"declaringWar": "Some people simply refuse to learn. I'd had enough of you, and your revolting colony.",
 		"attacked": "You are reminding us of a certain, self-proclaimed imperial Corsican. And we all remember what happened to him, don't we?",
@@ -469,8 +469,8 @@
 		"startBias": ["Forest","Jungle","Plains","Grassland"],
 		"preferredVictoryType":"Diplomatic",
 
-		"startIntroPart1": ".",
-		"startIntroPart2": ". Can you build a colony that stands the test of time?",
+		"startIntroPart1": "Peace be with you, Kavita Thakur of the Kavithan Protectorate. Daughter of the mystic prophet Raj Thakur, your own spiritual connection and charisma won the hearts and souls of your people. Unanimously voted to become the next leader of the Protectorate, you kept your policy of humanitarian campaigns. Through your father's legacy and the people of the Kavithan Protectorate, you finally realized his dream to spread humanity through the stars.",
+		"startIntroPart2": "Kavitha, your faithful wishes to achieve your dream in this new world. Will you lead them to an eternal spiritual glory? Can you build a colony that stands the test of time?",
 
 		"declaringWar": "Our spirit has sufferend long enough from your reckless ways. Only the flame can cleanse you now.",
 		"attacked": "Why do you continue with intimidation tactics? Do you think your shows of aggression will change anything? You should keep to yourself.",
@@ -510,6 +510,51 @@
 			"Udyama",
 			"Garhi",
 			"Nikhitha"
+		],
+		"civilopediaText": [
+			{
+				"text": "Apocalypse",
+				"header": 2,
+				"centered": true
+			},
+			{
+				"text": "With end of the Great Mistake and the devastation it had brought, the Indian subcontinent's economic and political position was more precarious than ever. Populations faced extensive coastal flooding, crop failure, and pandemics with limited international humanitarian aid. Millions of refugees poured across India and surrounding nations in the greatest human migration on the subcontinent since the partition in 1947. Clashes between political and religious factions among desperate groups increased, and the centralized political power had only limited ability to help. The specter of a balkanized, ethnically torn subcontinent seemed all too likely."
+			},
+			{
+				"text": "Rise of the Prophet",
+				"header": 2,
+				"centered": true
+			},
+			{
+				"text": "In this turbulent mix, in the city of Delhi emerged Raj Thakur, a mystic preaching a heterodox and syncretic creed that appealed to all three major religions of the subcontinent. Thakur's message of the great potential of all people, the purifying power of sustainable living, and personal charity did what no political force could - it crossed religious and ethnic boundaries and united the people of the subcontinent. It became a political force of its own, a deeply felt grassroots movement that vanquished the worst of the religious, political, and ethnic violence. Thakur undertook a pilgrimage across the subcontinent on foot, leaving Delhi and walking to the Kush, followed by tens of thousands of his disciples, and a media captivated by the prophet. Arriving in the foothills of the Hindu Kush, Thakur and his followers' tent encampment became a nexus for his teachings, spreading around the world in person and on the Internet and television. His image and words were ubiquitous, bringing solace and care to the poor and diseased, and inspiring many of the upper classes to leave the security of their walled compounds to directly help others."
+			},
+			{
+				"text": "Kavitha's Protectorate",
+				"header": 2,
+				"centered": true
+			},
+			{
+				"text": "Raj Thakur died just three years after the end of his pilgrimage, leaving the work of his mission to his daughter, Kavitha. Kavitha Thakur is more media-reticent than her father, although this is seen by many as deferential to his vision and her personal choice to focus on her own religious writings. Raj Thakur's teachings and parables often used the imagery of flight and cosmic travel, and Kavitha Thakur has codified these as explicit support for the Seeding. It is said Raj Thakur saw the Inflection Point prophetically, and laid the framework for the Protectorate to participate in the Seeding."
+			},
+			{
+				"text": "Great Rejoicing",
+				"header": 2,
+				"centered": true
+			},
+			{
+				"text": "Thakurism not only brought an end to warfare on the Indian subcontinent, it also precipitated a cultural flourishing beyond anything that existed up to the Great Mistake. Given a renewed sense of purpose by the Prophet, a great wave of new art, music, cinema, and video gaming sprang up, beginning in Delhi but spreading as fast as Raj Thakur's message of improving the lot of humanity. 'The Prophet's Dream' is the common euphemism for the Protectorate's space program, and songs and movies extoll the moral value of educating oneself to work on the Seeding."
+			},
+			{
+				"text": "Protecting the Future",
+				"header": 2,
+				"centered": true
+			},
+			{
+				"text": "The Protectorate still has decades of war and environmental damage to heal, and resources are scarce, but the people of the Protectorate are optimistic about the future ahead. Of all the nations of the world, the Protectorate probably has the broadest spectrum of support for the Seeding projects, and the Protectorate's methods for choosing Seeding candidates are broadly democratic. Kavitha Thakur, although holding no formal office and claiming no titles for herself, is unquestionably the leader of this political and religious movement, and she has made it clear that she will see her father's dreams realized in this generation."
+			},
+			{
+				"separator": true
+			}
 		]
 	},
 	{
@@ -519,8 +564,8 @@
 		"startBias": ["Jungle"],
 		"preferredVictoryType":"Domination",
 
-		"startIntroPart1": "The Academia Militar das Agulhas Negras is famous for its all-terrain survival training course known as Las Lomas de Arena. Once a Parque Regional, this restricted area is loved by instructors for its utility in separating the weak from the strong. The 10 mile course includes rainforest, 30 meter high sand dunes, river crossings, pulse plasma sentries, low-charge ion minefields, and irradiated swampland. One does not run the Lomas course, one survives it. The first and only cadet to ever complete the course intact is none other than the Supreme Commander of Brasilia, the Lion of Peshawar, Rejinaldo Leonardo Pedro Bolivar de Alencar-Araripe.",
-		"startIntroPart2": ". Can you build a colony that stands the test of time?",
+		"startIntroPart1": "Salutations, General Rejinaldo Leonardo Pedro Bolivar de Alencar-Araripe of Brasilia. Your military prowess was tested in the world after the Great Mistake, serving nine combat tours all over the globe. After leaving behind a legacy in the form of two military books and the title of Brasilia's national hero, you were selected to become the leader of Brasilia's Seeding program.",
+		"startIntroPart2": "General Rejinaldo, your loyal soldiers look to you for their next order. Will you lead them with bravery and professionalism into this new world? Can you build a colony that stands the test of time?",
 
 		"declaringWar": "It is time to settle this on the field. May the greater general win.",
 		"attacked": "Aggressive militaries make me angry. You wouldn't like me when I’m angry.",
@@ -560,6 +605,43 @@
 			"Monumento",
 			"Hélder",
 			"Lugar de Paz"
+		],
+		"civilopediaText": [
+			{
+				"text": "First among Equals",
+				"header": 2,
+				"centered": true
+			},
+			{
+				"text": "Although far from the events of the Great Mistake, the crisis was still a shock to the political and economic life of the Western Hemisphere. In the ecological disaster that followed, Western countries largely looked to their own needs instead of forming large, transnational bodies. In South America, Brasilia suffered as much as any other country, as the Amazon basin flooded with seawater and the rising oceans threatened Rio de Janeiro and Salvador. But Brasilia's burgeoning manufacturing base was resilient, and the country quickly established itself as the nation that could build the equipment needed for rebuilding, the electronics needed for communication, and the medicines needed to fight off disease. Brasilia's stature rose as a regional power."
+			},
+			{
+				"text": "Peacekeeper",
+				"header": 2,
+				"centered": true
+			},
+			{
+				"text": "What cemented Brasilia's stature as a superpower was its commitment to provide peacekeeping forces around the world in the countless crises that sprang up after the Great Mistake. Known in Brasilia as "O Caridade," Brasilian soldiers would guard refugee camps, while crates of Brasilian food and medicine were distributed to the occupants. The Brasilian military's power projection had reached the level that previously only the United States and Soviet Union could meet, and at the end of the worst of the fighting, the national defense forces were tested veterans of some of the hardest insurgencies, low-intensity operations, and sixth-generation warfare ever seen."
+			},
+			{
+				"text": "Swords to Plowshares",
+				"header": 2,
+				"centered": true
+			},
+			{
+				"text": "The Brasilians helped transition their economy back to a peacetime footing by emulating the old GI bill - educating those soldiers who chose to return to civilian life. In the years that followed, Brasilian engineering programs boomed with cadres of soldier-students, and Brasilia's aerospace program underwent something of a golden age. The country rebuilt its ports, and set about one of the largest infrastructure projects of the post-Mistake world: charting and regulating the expanded Amazon basin as a highway for shipping. Brasilia's new deep-inland ports opened up the highlands of South America to the world in ways that had not previously been possible. The increase in trade increased the wealth of Brasilia, and a series of partnership agreements gave Brasilia friends across the continent. Brasilia is now, without question, the first among peers of the new Latin America."
+			},
+			{
+				"text": "New Worlds",
+				"header": 2,
+				"centered": true
+			},
+			{
+				"text": "Brasilia's strong aerospace industry and its veteran air force gave the country something of a leg up when the Seeding began. Brasilia was the first nation-state whose ship left the confines of the solar system - a feat of national pride that Brasilians are quick to boast on. This expedition, composed of many of Brasilia's best soldiers and airmen, represented the belief that a colony whose members had been tested in the fire of combat would bring lasting success to the conquest of a new world."
+			},
+			{
+				"separator": true
+			}
 		]
 	},
 	{
@@ -671,7 +753,7 @@
 		"startBias": ["Desert"],
 		"preferredVictoryType":"Cultural",
 
-		"startIntroPart1": "Al Falah is known as a phoenix-like collective of resilient and determined people; however, it is more than just a tenacious movement. Aboard the waking Seedships, the people of Al Falah lived a relatively comfortable life in a simulated-gravity environment aboard the “waking” Seedships. Special attention had been paid to creating and preserving as much of an Earth-like ambiance as possible. Elaborate, artificial terrariums and nurseries housed valuable pieces of Al Falah’s heritage, and ensured that the people would never forget their homeland.",
+		"startIntroPart1": "",
 		"startIntroPart2": ". Can you build a colony that stands the test of time?",
 
 		"declaringWar": "You are not good for this world. It is time you went back to sleep.",
