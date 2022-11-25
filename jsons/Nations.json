@@ -608,7 +608,7 @@
 		],
 		"civilopediaText": [
 			{
-				"text": "First among Equals",
+				"text": "First Among Equals",
 				"header": 2,
 				"centered": true
 			},
@@ -621,7 +621,7 @@
 				"centered": true
 			},
 			{
-				"text": "What cemented Brasilia's stature as a superpower was its commitment to provide peacekeeping forces around the world in the countless crises that sprang up after the Great Mistake. Known in Brasilia as "O Caridade," Brasilian soldiers would guard refugee camps, while crates of Brasilian food and medicine were distributed to the occupants. The Brasilian military's power projection had reached the level that previously only the United States and Soviet Union could meet, and at the end of the worst of the fighting, the national defense forces were tested veterans of some of the hardest insurgencies, low-intensity operations, and sixth-generation warfare ever seen."
+				"text": "What cemented Brasilia's stature as a superpower was its commitment to provide peacekeeping forces around the world in the countless crises that sprang up after the Great Mistake. Known in Brasilia as 'O Caridade,' Brasilian soldiers would guard refugee camps, while crates of Brasilian food and medicine were distributed to the occupants. The Brasilian military's power projection had reached the level that previously only the United States and Soviet Union could meet, and at the end of the worst of the fighting, the national defense forces were tested veterans of some of the hardest insurgencies, low-intensity operations, and sixth-generation warfare ever seen."
 			},
 			{
 				"text": "Swords to Plowshares",
@@ -651,8 +651,8 @@
 		"startBias": ["Coastal"],
 		"preferredVictoryType":"Diplomacy",
 
-		"startIntroPart1": ".",
-		"startIntroPart2": ". Can you build a colony that stands the test of time?",
+		"startIntroPart1": "Greetings, Hutama of the Commonwealth of the Pacific. Your charm, charisma, and strong sense of public justice propelled you through the Polystralian parliament and endeared its citizens. Battling corruption, cronyism, and needless waste while at the same time spreading prosperity to Polystralia and beyond, your popularity led you towards becoming leader of the Polystralian Seeding program. Despite opposing the program at first, you have made up your mind to ensure the survival of your colony.",
+		"startIntroPart2": "Hutama, your people look to you to bring prosperity to this new planet. Will you ensure their prosperity? Can you build a colony that stands the test of time?",
 
 		"declaringWar": "Disappointed? Not half as much as I am. I thought there was hope for you, but you sure proved me wrong.",
 		"attacked": "Just keep those guns pointed away from us, and we'll get along fine.",
@@ -692,17 +692,62 @@
 			"Kayamutan",
 			"Ballarat",
 			"Speewah"
+		],
+		"civilopediaText": [
+			{
+				"text": "Rising Tide",
+				"header": 2,
+				"centered": true
+			},
+			{
+				"text": "The ecological disaster and rising sea levels that followed the Great Mistake first affected the people of the Pacific. Low-lying islands were inundated, coastal communities were threatened, and rivers were choked by saltwater upflow. Wildlife underwent upheaval, and commercial aquaculture was seriously disrupted. Those coastal countries, from Indonesia to the Polynesian archipelagos, joined together in the first new pan-national body, united by the common threat from the sea. The new body, christened Polystralia, spanned a larger geographic area than any other nation of Old Earth, but with a smaller population and fewer land resources. The Polystralians would have to face their problems with ingenuity, not wealth."
+			},
+			{
+				"text": "Leading by Example",
+				"header": 2,
+				"centered": true
+			},
+			{
+				"text": "Focused on practical progress, the Polystralians tackled the engineering challenges and food situation with a charming directness. Focusing on small, individually driven projects, iterating quickly and sharing success stories with each other, the Polystralians quickly became leaders in 'dry' horticulture and aquaculture. To say that Polystralia fed the world after the Great Mistake may be an exaggeration, but only a slight one. Treaties and trade agreements brought food to many struggling peoples in exchange for raw materials and manufactured goods that the islands lacked."
+			},
+			{
+				"text": "Humanitarian Traders",
+				"header": 2,
+				"centered": true
+			},
+			{
+				"text": "The wealth earned from feeding the world went into building a national shipping fleet that was the envy of the world, and Polystralian-flagged vessels soon carried the supermajority of the world's cargo. This in turn further enriched the country, but instead of squandering their wealth, Polystralian financial institutions lent money at favorable rates to help in worldwide reconstruction and reclamation projects, backed by a stable currency. The Commonwealth was also at the fore in humanitarian relief efforts in devastated regions, earning it yet more goodwill. Over the next generations, Polystralian diplomats and politicians would serve as moderators and overseers in most international disputes. Polystralia embodied the Samoan proverb: Amuia le masina, e alu ma sau (“Stones rot but not deeds”)."
+			},
+			{
+				"text": "The Commonwealth",
+				"header": 2,
+				"centered": true
+			},
+			{
+				"text": "Much of Polystralia’s prosperity and progress was due to its lack of internal political discord. Unlike other areas, the relations between the nation-members of the Commonwealth were generally cordial and peaceful. Disputes were settled amicably in the Assembly. With the exception of a unified judiciary and military, and contributions to the operating cost of the Commonwealth government, local administration is left in the hands of the member states. For over a century this structure elevated Polystralia into the ranks of superpowers."
+			},
+			{
+				"text": "Far and Away",
+				"header": 2,
+				"centered": true
+			},
+			{
+				"text": "Although less active in the off-world colonization effort than other states, Polystralia also joined the race to spread humanity to other planets. With unpleasant memories of the penal colonies founded in many of its lands, the Commonwealth focused on the well-being and safety of its colonists before other concerns. Motivated by a historical sense of adventure and exploration, as well as a tradition of hard work and self-reliance, tens of thousands of Commonwealth citizens volunteered to relocate off-world. With its extensive research in agriculture, ecology, and alternative energy sources, and a cultural tradition of traveling immense distances to settle in new lands, the several colonial efforts sought to live in accord with the new environments, and thus replicate Polystralia’s prosperity and peace in far-distant islands of space."
+			},
+			{
+				"separator": true
+			}
 		]
 	},
 	{
 		"name": "Slavic Federation",
-		"leaderName": "Vadim Koslov",
+		"leaderName": "Vadim Kozlov",
 		"adjective": ["Slavic"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType":"Scientific",
 
-		"startIntroPart1": ".",
-		"startIntroPart2": ". Can you build a colony that stands the test of time?",
+		"startIntroPart1": "Privyet, General Vadim Kozlov of the Slavic Federation. Your humble start as an orbital construction worker does not dissuade you from joining the armed forces and becoming the public face of the Federation's space program. An excellent foreman who oversaw projects on Earth, Mars, and space, you eagerly volunteered to head the Slavic Federation's offworld colonization program.",
+		"startIntroPart2": "General Vadim, the people are eager to build and explore this new world. Will you create an industrial juggernaut on this planet? Can you build a colony that stands the test of time?",
 
 		"declaringWar": "We are finished with you. War begins now.",
 		"attacked": "Stop your military aggression. It does not intimidate us.",
@@ -744,6 +789,51 @@
 			"Averkiy",
 			"Krasota",
 			"Mir"
+		],
+		"civilopediaText": [
+			{
+				"text": "Old Strengths, New Russia",
+				"header": 2,
+				"centered": true
+			},
+			{
+				"text": "Although affected by the Great Mistake, Russia's legendarily vast lands and population proved to be valuable resources during the subsequent environmental changes and the long recovery. A strong hand by the central government prevented territories from seceding, and a series of emergency authorizations gave the government the authority to use all resources necessary to preserve the nation. Its military was forced to interpose itself more than once into the violence that rocked Asia and the Russian Federation emerged a much-changed entity. Political leaders saw an opportunity to regain the trust of eastern European nations, especially in light of the dissolution of the EU, and the Federation courted these countries into membership through access to Russia's strategic mineral wealth and a common cultural heritage. Although Slavic in name, the Federation nonetheless contains hundreds of Asian ethnic groups and new populations of refugees. And the Federation seems to suffer little in the way of ethnic or religious strife. The member nations of the Federation enjoy a degree of autonomy, and it must in fairness be said that ethnic minorities are often given freedom to form local governments."
+			},
+			{
+				"text": "Mud, Ice, Oil, Metal",
+				"header": 2,
+				"centered": true
+			},
+			{
+				"text": "The ecological disasters that followed the Great Mistake meant extensive melting of the permafrost and tundra. If there was an upside to the ecological damage, the warmer temperatures made construction easier, and geological surveying teams found new deposits of strategic minerals and oil in previously inaccessible terrain. Rising sea levels affected the Baltic port cities, but opened up other all-year port possibilities, and the Federation has prospered by selling raw materials and petroleum to the rest of the world. The Trans-Siberian pipelines, highways, and refinery cities are easily visible from orbit, and at night they appear as a glowing spiderweb of headlights and city lights."
+			},
+			{
+				"text": "The People's Triumph",
+				"header": 2,
+				"centered": true
+			},
+			{
+				"text": "The Federation has earned a reputation as being the world's engineers of heroic infrastructure, and this has given them an edge as they prepare for the Seeding. These huge projects, such as the restoration of the Black Sea and the Volga Dam Network have united the country politically, and given them ample practical experience in construction in difficult situations. Federation engineers are in high demand around the world, and if their projects lack elegance of design, they more than make up for it in robustness."
+			},
+			{
+				"text": "Pioneers on New Frontiers",
+				"header": 2,
+				"centered": true
+			},
+			{
+				"text": "Of all the post-Mistake nations, the Slavic Federation has emerged as most active in space. The Mir 2 space station, the Zvezdagrad orbital factory, and the Nova Luna installation are rightfully regarded as some of the finest feats of spaceflight up to the Seeding itself. Furthermore, there are multiple overlapping programs in the Federation, mainly military, civilian, private, and academic ones. Roscosmos – now supplied with top academic minds from all the Federation members – took a leading role in scientific advancement and the development of spacefaring technology."
+			},
+			{
+				"text": "To Space",
+				"header": 2,
+				"centered": true
+			},
+			{
+				"text": "Up until the Seeding, the Federation took a matter-of-fact attitude towards its terrestrial engineering and space program. They were seen as tools that were needed to improve the lives of its citizens, but increasingly the Federation has cast its work as being for the continuity of humanity. Federation technology can overcome any challenge, and federation know-how can find a solution to any problem. That philosophy motivated its herculean efforts in the colonization movement over the years leading to the Inflection Point."
+			},
+			{
+				"separator": true
+			}
 		]
 	},
 	{
@@ -753,8 +843,8 @@
 		"startBias": ["Desert"],
 		"preferredVictoryType":"Cultural",
 
-		"startIntroPart1": "",
-		"startIntroPart2": ". Can you build a colony that stands the test of time?",
+		"startIntroPart1": "Salam, Arshia Kishk of Al-Falah. Born on a generational fleet before cryogenics was usable, you were raised on the stories of old Earth by your father. Later in life, you overthrew a black market syndicate and won the hearts of the people through your generosity, ensuring the stability of the other ships of the Al-Falah fleet. Now you lead the Al-Falah, stepping into this new planet with the resilience and determination of your ancestors within you.",
+		"startIntroPart2": "Arshia, your people are ready to face the hardships ahead. Will you turn this colony into a successful one? Can you build a colony that stands the test of time?",
 
 		"declaringWar": "You are not good for this world. It is time you went back to sleep.",
 		"attacked": "Violence is your answer to everything, isn't it? It won't solve all of your problems.",
@@ -794,6 +884,35 @@
 			"Malek",
 			"Al Akdam",
 			"Khaled"
+		],
+		"civilopediaText": [
+			{
+				"text": "Exile and Isolation",
+				"header": 2,
+				"centered": true
+			},
+			{
+				"text": "After the Great Mistake, the majority of the population of the Middle East was forced into exile, fleeing their devastated homeland for neighboring regions and eventually becoming part of the burgeoning African, Indian, and Slavic factions. But not everyone left – whether by choice or necessity, a portion of the Middle Eastern populace remained behind to make what life they could in the remains of the Fertile Crescent. Initially these survivors took refuge in the megacities of the wealthy Arab states – Dubai, Jeddah, and Amman in particular became teeming metropolises, bursting with massive populations struggling to find their feet. The masters of these new city-states at first sought aid from the international community, but as the global powers shrank into self-imposed isolation in the face of the ongoing crisis, they were left increasingly – and in the end, totally – alone."
+			},
+			{
+				"text": "Resilience",
+				"header": 2,
+				"centered": true
+			},
+			{
+				"text": "From this darkness, a new kind of culture emerged. Convinced that the only salvation they would ever find would come from within, the lost people of the Middle East found a new form of courage. Their pride in remaining with their homeland hardened into a zeal to reclaim it, and to demonstrate to themselves and to the world their strength and resilience. The people left the cities and, hectare by hectare, swept clean the blasted remains of their country. Old tribal animosities and rivalries had given way to a generation of intense proximity in the crowded megacities, and the people that reemerged into the land did so in a spirit of brotherhood, united by their common desire to reclaim their dignity and autonomy."
+			},
+			{
+				"text": "Our Success",
+				"header": 2,
+				"centered": true
+			},
+			{
+				"text": "When the Inflection Point was discovered and the nations of the world began to unfreeze their relationships, they found the peoples of the Middle East resurgent, united, and fiercely independent. When work began on the great ships, the Arabians were among the first to loft a derrick and start construction. In these early days of the Seeding, before cryogenic technology had evolved to the point where it could withstand a deep space voyage, many nations feared to send colonists to far-flung planets for the toll it would take on the crew. The Arabians did not. They had borne the greatest hardship and shaken it off. Their people were tempered in adversity, and did not flinch from it. The Arabian ships that left Earth were 'waking ships' - they did not carry sleeping cells. The crew that stepped onto them knew they would likely never live to see their new home. But they would prepare their descendants to be masters of it. They would raise their children on the stories of their people's rise from the ashes. They would teach them of the strength and determination that fueled their journey to claim a new homeland. By the time these new colonists, born in space, arrived at their new world, they no longer remembered the Old Earth names for their forbears' home countries. They only knew what lay before them – the culmination of the work of generations, the rewards of their antecedents' struggle: Al Falah… 'Our Success.'"
+			},
+			{
+				"separator": true
+			}
 		]
 	},
 	{
@@ -803,8 +922,8 @@
 		"startBias": ["Tundra","Coastal"],
 		"preferredVictoryType":"Domination",
 
-		"startIntroPart1": ".",
-		"startIntroPart2": ". Can you build a colony that stands the test of time?",
+		"startIntroPart1": "Annyeonghaseo, Director Han Jae Moon of Chungsu. Your intellect and social aptitude shone from a young age, and you were able to dance through the political minefield that was post-Mistake East Asia. Unanimously elected as leader shortly before landing, your wisdom and knowledge is valued and respected by your fellow colonists.",
+		"startIntroPart2": "Director Han, your agents are already in position in the shadows. Will you gain control behind the colonies' curtains? Can you build a colony that stands the test of time?",
 
 		"declaringWar": "Our patience is at an end. You must be removed from play.",
 		"attacked": "Your military actions are disconcerting. We are monitoring the situation closely.",
@@ -846,6 +965,43 @@
 			"Pungbu",
 			"Insig",
 			"Pinancheo"
+		],
+		"civilopediaText": [
+			{
+				"text": "A Shadowy Origin",
+				"header": 2,
+				"centered": true
+			},
+			{
+				"text": "Like any clandestine organization, the Chungsu entity is the frequent target of conspiracy theorists and political demagogues. As the agency does not have a public face, it is often under scrutiny from international bodies such as the UN+S and Blue Planet Peace. Rumors include everything from illuminati-like secret society to anti-PAC terrorists. Spokespeople for Chungsu claim it is simply a semi-public defense consulting enterprise. The reality of the matter is somewhere in between. Some of the few facts that have been independently verified are as follows: It is an organization based in the Korean peninsula, if not originating there. It ostensibly replaced Korean military forces, and foreign affair and financial bureaus. It is most likely responsible for decades of political influence in Chinese and Japanese interests. It is believed to house numerous facilities, if not its headquarters, in subaquatic environments."
+			},
+			{
+				"text": "An Eye Towards the Sky",
+				"header": 2,
+				"centered": true
+			},
+			{
+				"text": "In truth, Chungsu is an interstellar defense organization founded by ambitious futurists. Begun shortly after the Provenance Discovery scandal, the organization was kept confidential by its founders: a multidisciplinary team of scientists, advanced weapons experts, and government officials. From its underwater complex, it is able to experiment and prepare for interstellar travel. Hypothetical alien technologies are simulated and even the most extremely speculative hypotheses are fully explored."
+			},
+			{
+				"text": "Wide Reach",
+				"header": 2,
+				"centered": true
+			},
+			{
+				"text": "It was Chungsu involvement in the Great Mistake investigations that made the organization a prime suspect in the cover-up. Critics demanded transparency behind the agency’s funding sources; however, Korean officials refused to act. Whether or not this was from internal or external pressures is still unknown. What is known is that Korean society was surprisingly well prepared to handle the Great Mistake. Even before the Great Mistake, Chungsu was in a difficult predicament. Between Japan’s isolationism, and China’s unstoppable growth, the Korean peninsula walked a very fine and finite line. The Great Mistake eased Chinese aggression, but it wasn’t until Japan suffered unrecoverable damage to its infrastructure during the Hareubang Tsunami that Chungsu was able to escape its untenable situation. A recovery effort led by Chungsu helped paint the secretive organization in a more positive light domestically, albeit not internationally. The failure of centralized government and the vacuum of localized power allowed the Chungsu to step in and take matters into its own hands."
+			},
+			{
+				"text": "Uncloaked",
+				"header": 2,
+				"centered": true
+			},
+			{
+				"text": "Bolstered by the public support, Chungsu emerged from the shadows after decades of careful preparation in order to lead humanity into the future. Their efforts to save the planet through covert activity had failed. The Inflection Point had arrived."
+			},
+			{
+				"separator": true
+			}
 		]
 	},
 	{
@@ -855,8 +1011,8 @@
 		"startBias": ["Hill"],
 		"preferredVictoryType":"Diplomacy",
 
-		"startIntroPart1": ".",
-		"startIntroPart2": ". Can you build a colony that stands the test of time?",
+		"startIntroPart1": "Guten Tag, Lena Ebner of the Initiative für Nachhaltige Technologien, Effizienz, Gerechtigkeit und Rechtschaffenheit. You have seen the post-Mistake world during your youth, and its crises as a volunteer shortly after. Your activism and dedication to humanitarianism has attracted the INTEGR party, and they elected you as their leader for your 'techno-green' Transmodernism ideals. When the Inflection Point was discovered, you made sure that INTEGR's Seeding is not done hastily while being mindful of the effects it has on Earth.",
+		"startIntroPart2": "Lena, your people look to you to manifest your ideals in this new planet. Will you achieve a techno-environmental paradise in this world and Earth? Can you build a colony that stands the test of time?",
 
 		"declaringWar": "Politics has run its course. Let me simplify the situation for you.",
 		"attacked": "You can't possibly claim that your use of military force is warranted. 'Might' stopped making 'Right' a long time ago.",
@@ -896,6 +1052,43 @@
 			"Hochachtung",
 			"Streben",
 			"Zenit"
+		],
+		"civilopediaText": [
+			{
+				"text": "Thinking Forward",
+				"header": 2,
+				"centered": true
+			},
+			{
+				"text": "When the EU dissolved in the years following the Great Mistake, a party known as INTEGR arose as a political movement in opposition to the Franco-Iberian majority. Germany had long preached the value of accountability, and many in central and eastern Europe felt the Franco-Iberia leadership was committing the same mistakes that caused the dysfunctional nature of the original EU in the first place. Franco-Iberia was using outdated ideas for contemporary issues; focusing on growth when they should be enforcing austerity measures; being irresponsible in the wake of a global catastrophe. While early Franco-Iberia had pledged to tackle environmental issues, it was the first item to be shelved. Seizing the opportunity, the INTEGR had found their tent-pole."
+			},
+			{
+				"text": "Building a Better Future",
+				"header": 2,
+				"centered": true
+			},
+			{
+				"text": "Franco-Iberia’s lack of initiatives on the impact of rising sea levels, water shortages, and pollution opened the door for INTEGR. Led by technocratic environmentalists, influential activists, and ultra-modern politicians, the goals of INTEGR were clear: build a better future by acknowledging our past mistakes. While originating in Germany, the fledgling party’s radical agenda quickly garnered support in neighboring countries. Franco-Iberia was overwhelmingly popular around most of the Mediterranean, but nothing could stop INTEGR’s growth. They soon came to be identified by their radical environmentalist 'Earth at all costs' agenda – also called the 'Green Again' movement."
+			},
+			{
+				"text": "Green Austerity",
+				"header": 2,
+				"centered": true
+			},
+			{
+				"text": "The first major victory by INTEGR was a comprehensive plan to institute environmental austerity measures. “Green Austerity” targeted the biggest polluters and created an energy management program across the continent. Proponents hailed it as landmark policy and while many were not happy with the negative impact on the economy, most understood it was a necessary step. What most didn’t realize, is that this was just the beginning of aggressive legislation aimed at fixing Europe’s problems. INTEGR embraced experimental and expensive, but ultimately more advanced, technologies characterized by their sustainability, environmental preservation, and concern for long-term human habitation on Earth. Proposals from the founding members of INTEGR were considered the most advanced and progressive Europe had ever seen. Their tenants revolved around creating the possibility space for diverse worldviews. No society was too small, no voice insignificant. Sustainability came from innovation, and innovation through diversity. This was the same ethos that ultimately led Lena Ebner and the party to its mission of Transmodernism."
+			},
+			{
+				"text": "A Dream Ends, Another Begins",
+				"header": 2,
+				"centered": true
+			},
+			{
+				"text": "These lofty ideals came at a cost, one that was evident from the discovery of the Inflection Point. INTEGR’s goals were to achieve Earth independence and ultimately join the Seeding, too, but without any shortcuts or compromises that would inhibit the eventual recovery of Earth itself. This left INTEGR at a disadvantage from a timeline perspective, but while some considered the Seeding a dash, INTEGR considered a marathon."
+			},
+			{
+				"separator": true
+			}
 		]
 	},
 	{
@@ -905,8 +1098,8 @@
 		"startBias": ["Tundra","Coastal"],
 		"preferredVictoryType":"Domination",
 
-		"startIntroPart1": ".",
-		"startIntroPart2": ". Can you build a colony that stands the test of time?",
+		"startIntroPart1": "Greetings, Duncan Hughes of the North Sea Alliance. While your demeanor seem ill-suited to the political life, a strong work ethic and shrewd dealmaking skills helped you survive and thrive in politics. An excellent engineer yourself, you proposed the ARKs' naval capacities - which will serve you greatly in this new world.",
+		"startIntroPart2": "Duncan, your people are ready to colonize the waters of this new world. Will you navigate them towards an industrious future? Can you build a colony that stands the test of time?",
 
 		"declaringWar": "Ye scunner, I hope you're ready for this. Time to put you down for good.",
 		"attacked": "Do you honestly believe you can scare us with all of your military's footerin? You'd have to plowt us better than that to make an impression.",
@@ -946,6 +1139,35 @@
 			"Duncankeld",
 			"Bànclagh",
 			"Sàmchair"
+		],
+		"civilopediaText": [
+			{
+				"text": "Sinking Lands",
+				"header": 2,
+				"centered": true
+			},
+			{
+				"text": "The British Isles and Scandinavia were largely unaffected by the devastation of the Great Mistake and its subsequent migrations, being too remote from the epicenters of those events to be viable targets. However, these low-lying nations were especially susceptible to the rising sea levels caused by the accelerating climate change. Traditionally coastal and maritime economies, Great Britain and the Nordic States faced the prospect of the total eradication of their way of life."
+			},
+			{
+				"text": "Aquatic Cities",
+				"header": 2,
+				"centered": true
+			},
+			{
+				"text": "Unwilling to accept this fate quietly, these powers set about finding a way to save their coastlines and countryside from the flood. Drawing on their common heritage as naval powers and recognizing the need for cooperation at scale, the North Sea nations formed a groundbreaking partnership dedicated to territorial preservation and the development of co-aquatic habitation and agriculture. As the world settled into its post-Mistake dark age, the new North Sea Alliance was hard at work on massive infrastructure projects in an effort to save their shrinking homelands. London and Copenhagen were reshaped from the waterline up, re-established on elaborate networks of dykes, culverts, and canals; new heavy industries were developed to build and maintain hybrid land-water habitats; and the Scandinavian fjords were dredged and fitted with locks to form massive natural drydocks for the construction of huge, semi-mobile aquatic city platforms. Colloquially called the 'ARKs,' the microecology, aquaculture, and autonomous power production technologies developed to sustain these floating cities were some of the earliest and most visionary artificial environment technologies ever seen, and formed the basis for many new technologies employed in first colony ships to equip them for long-term establishment on foreign planets."
+			},
+			{
+				"text": "The Shift to Space",
+				"header": 2,
+				"centered": true
+			},
+			{
+				"text": "When the world awakened from the dark age and the Seeding began in earnest, the North Sea Alliance found themselves behind the curve: all their economic and domestic momentum was focused on sustaining terrestrial life, not leaving it behind. However, the Alliance wasted no time in shifting that emphasis to joining the race to find a new world. Leveraging their autonomous habitation technologies in a series of shrewd partnerships and resource deals, the Alliance managed to ramp up surprisingly quickly – and they did so with one special tactical play based on their unique advantage: their colony ships would be designed to make a water landing, transforming into an ARK-city and giving the fledgling North Sea colony a unique territorial edge in establishing itself in competition with its new neighbors. Though this added sophistication meant they were among the last to launch a colony ship, by the time the Seeding waned they had commissioned more than enough to count among the major colonization sponsors."
+			},
+			{
+				"separator": true
+			}
 		]
 	},
 	
