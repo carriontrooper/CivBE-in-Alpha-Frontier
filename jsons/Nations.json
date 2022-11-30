@@ -392,7 +392,7 @@
 		"favoredReligion": "Neo-Monolith",
 		"uniqueName": "Bastion of Culture",
 		"uniques": [
-			"Provides 1 happiness per 2 additional social policies adopted",
+			"Provides [+1 Happiness] per [2] social policies adopted",
 			"[-10]% Culture cost of adopting new Policies"
 		],
 		"cities": [
