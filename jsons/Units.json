@@ -189,7 +189,9 @@
 				"text": "Mechs outfitted with boosters powerful enough to reach low orbit and armed with shields to withstand re-entry."
 			}
 		]
-	},
+	}
+
+/*,
 	{
 		"name": "Mobile ARK Constructor",
 		"unitType": "Civilian Water",
@@ -199,12 +201,12 @@
 		"requiredTech": "Synthetic Materials",
 		"uniques": ["Can construct [ARK District]", "Uncapturable"],
 		"civilopediaText": [
-			/*
+			
 			{
 				"extraImage": "TileSets/FantasyHex/Units/Mobile ARK Constructor",
 				"imageSize": 64
 			},
-			*/
+			
 			{
 				"Separator": true
 			},
@@ -222,12 +224,12 @@
 		"requiredTech": "Hydrodynamics",
 		"uniques": ["Can construct [Aquaponics Area]", "May create improvements on water resources", "Uncapturable"],
 		"civilopediaText": [
-			/*
+			
 			{
 				"extraImage": "TileSets/FantasyHex/Units/Aqua Cultivator",
 				"imageSize": 64
 			},
-			*/
+			
 			{
 				"Separator": true
 			},
@@ -236,4 +238,5 @@
 			}
 		]
 	}
+*/
 ]
