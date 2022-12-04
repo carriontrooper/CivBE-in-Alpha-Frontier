@@ -17,7 +17,7 @@
 	{
 		"name": "Aquaponics Kit",
 		"uniques": ["Can construct [Aquaponics Area]"],
-		"row": 122,
+		"row": 121,
         "column": 0
 	},
 	{
