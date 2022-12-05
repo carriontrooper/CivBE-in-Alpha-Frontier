@@ -583,7 +583,9 @@
 		"favoredReligion": "Gene Purists",
 		"uniqueName": "O Caridade",
 		"uniques": [
-			"Earn [10]% of killed [Wounded] unit's [Cost] as [Culture]"
+			"Earn [10]% of killed [Wounded] unit's [Cost] as [Culture]",
+			"New [Military] units start with [30] Experience [in all cities]",
+			"[+10]% Strength <when defending>"
 		],
 		"cities": [
 			"Cidadela",
