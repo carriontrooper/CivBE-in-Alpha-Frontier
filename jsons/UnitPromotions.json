@@ -13,5 +13,17 @@
 		],
 		"row": 120,
         "column": 0
+	},
+	{
+		"name": "Aquaponics Kit",
+		"uniques": ["Can construct [Aquaponics Area]"],
+		"row": 121,
+        "column": 0
+	},
+	{
+		"name": "ARK Construction",
+		"uniques": ["Can construct [ARK District]"],
+		"row": 122,
+        "column": 0
 	}
 ]

@@ -190,4 +190,53 @@
 			}
 		]
 	}
+
+/*,
+	{
+		"name": "Mobile ARK Constructor",
+		"unitType": "Civilian Water",
+		"uniqueTo": "North Sea Alliance",
+		"movement": 4,
+		"cost": 110,
+		"requiredTech": "Synthetic Materials",
+		"uniques": ["Can construct [ARK District]", "Uncapturable"],
+		"civilopediaText": [
+			
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Mobile ARK Constructor",
+				"imageSize": 64
+			},
+			
+			{
+				"Separator": true
+			},
+			{
+				"text": "Heavy-duty floating construction platforms that can root itself on the ocean floor and expand into an ARK District."
+			}
+		]
+	},
+	{
+		"name": "Aqua Cultivator",
+		"unitType": "Civilian Water",
+		"uniqueTo": "Polystralia",
+		"movement": 5,
+		"cost": 50,
+		"requiredTech": "Hydrodynamics",
+		"uniques": ["Can construct [Aquaponics Area]", "May create improvements on water resources", "Uncapturable"],
+		"civilopediaText": [
+			
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Aqua Cultivator",
+				"imageSize": 64
+			},
+			
+			{
+				"Separator": true
+			},
+			{
+				"text": "A fast and cheap boat with construction capabilities, mainly used to create Aquaponic Areas but can also improve resources."
+			}
+		]
+	}
+*/
 ]
