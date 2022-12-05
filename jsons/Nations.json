@@ -488,7 +488,8 @@
 		"uniqueName": "The Prophet's Dream",
 		"uniques": [
 			"[-10]% Culture cost of natural border growth [in all cities]",
-			"[-10]% Gold cost of acquiring tiles [in all cities]"
+			"[-10]% Gold cost of acquiring tiles [in all cities]",
+			"[+20]% [Faith] <during We Love The King Day>"
 		],
 		"cities": [
 			"Mandira",
@@ -863,7 +864,8 @@
 		"uniqueName": "Our Success",
 		"uniques": [
 			"[-10]% Culture cost of natural border growth [in all cities]",
-			"[+20]% Yield from every [City center]"
+			"[+20]% Yield from every [City center]",
+			"[Gold] cost of purchasing [All] buildings [-10]%"
 		],
 		"cities": [
 			"Ard",
