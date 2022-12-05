@@ -6,217 +6,217 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Automated Heavy Industry
   rotate: false
-  xy: 112, 268
+  xy: 4, 52
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Covert Base
   rotate: false
-  xy: 112, 160
+  xy: 328, 376
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Cultural Square
   rotate: false
-  xy: 220, 268
+  xy: 112, 52
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Diplomatic Office
   rotate: false
-  xy: 328, 376
+  xy: 220, 160
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Farmer Co-op Market
   rotate: false
-  xy: 112, 52
+  xy: 328, 268
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Financial Intelligence Agency
   rotate: false
-  xy: 220, 160
+  xy: 436, 376
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Green Infrastructure
   rotate: false
-  xy: 436, 376
+  xy: 328, 160
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Integrated Farms
   rotate: false
-  xy: 328, 160
+  xy: 544, 376
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Market District
   rotate: false
-  xy: 436, 160
+  xy: 652, 376
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Orbital Habitat
   rotate: false
-  xy: 544, 160
+  xy: 760, 376
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Orbital Industry
   rotate: false
-  xy: 652, 268
+  xy: 544, 52
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Retail Outlet
   rotate: false
-  xy: 652, 52
+  xy: 868, 268
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Seawall
   rotate: false
-  xy: 760, 160
+  xy: 976, 376
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Sermon Station
   rotate: false
-  xy: 868, 268
+  xy: 760, 52
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Underwater Complex
   rotate: false
-  xy: 868, 160
+  xy: 1084, 376
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Urban Commune
   rotate: false
-  xy: 976, 268
+  xy: 868, 52
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/ARK District
   rotate: false
-  xy: 4, 376
+  xy: 4, 268
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Aquaponics Area
   rotate: false
-  xy: 4, 160
+  xy: 112, 268
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Al Falah
   rotate: false
-  xy: 4, 268
+  xy: 112, 376
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/American Reclamation Corporation
   rotate: false
-  xy: 112, 376
+  xy: 4, 160
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Brasilia
   rotate: false
-  xy: 220, 376
+  xy: 112, 160
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Chungsu
   rotate: false
-  xy: 4, 52
+  xy: 220, 268
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Franco-Iberia
   rotate: false
-  xy: 328, 268
+  xy: 220, 52
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/INTEGR
   rotate: false
-  xy: 220, 52
+  xy: 436, 268
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Kavithan Protectorate
   rotate: false
-  xy: 544, 376
+  xy: 436, 160
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Thakurism
   rotate: false
-  xy: 544, 376
+  xy: 436, 160
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/North Sea Alliance
   rotate: false
-  xy: 652, 376
+  xy: 544, 160
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Pan-Asian Cooperative
   rotate: false
-  xy: 760, 376
+  xy: 652, 160
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/People's African Union
   rotate: false
-  xy: 760, 268
+  xy: 652, 52
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Polystralia
   rotate: false
-  xy: 868, 376
+  xy: 760, 160
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Slavic Federation
   rotate: false
-  xy: 976, 376
+  xy: 868, 160
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -230,105 +230,119 @@ TileSets/FantasyHex/Tiles/ARK District
   index: -1
 TileSets/FantasyHex/Tiles/Aquaponics Area
   rotate: false
-  xy: 868, 112
+  xy: 1084, 328
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Jabal Drop Mecha
   rotate: false
-  xy: 976, 232
+  xy: 1192, 448
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Neo-BOPE
   rotate: false
-  xy: 1084, 340
+  xy: 976, 124
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Oathkeeper
   rotate: false
-  xy: 1192, 448
+  xy: 44, 16
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Peacekeeper Militia
   rotate: false
-  xy: 44, 16
+  xy: 1084, 292
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Svyatogor Crawler
   rotate: false
-  xy: 868, 76
+  xy: 1124, 340
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Valente APC
   rotate: false
-  xy: 908, 124
+  xy: 1192, 412
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 UnitIcons/Jabal Drop Mecha
   rotate: false
-  xy: 436, 268
+  xy: 328, 52
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Neo-BOPE
   rotate: false
-  xy: 544, 268
+  xy: 436, 52
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Oathkeeper
   rotate: false
-  xy: 436, 52
+  xy: 652, 268
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Peacekeeper Militia
   rotate: false
-  xy: 544, 52
+  xy: 760, 268
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Svyatogor Crawler
   rotate: false
-  xy: 760, 52
+  xy: 976, 268
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Valente APC
   rotate: false
-  xy: 1084, 376
+  xy: 976, 160
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/ARK Construction
+  rotate: false
+  xy: 4, 376
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Aquaponics Kit
+  rotate: false
+  xy: 220, 376
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Keeper of the Oath
   rotate: false
-  xy: 328, 52
+  xy: 544, 268
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Peacekeeper Training
   rotate: false
-  xy: 652, 160
+  xy: 868, 376
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
