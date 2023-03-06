@@ -117,7 +117,7 @@
 	},
 	{
 		"name": "Svyatogor Crawler",
-		"unitType": "Ranged Mech",
+		"unitType": "Siege",
 		"replaces": "Siege Walker",
 		"uniqueTo": "Slavic Federation",
 		"movement": 2,
