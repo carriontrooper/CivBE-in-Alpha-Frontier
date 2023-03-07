@@ -16,13 +16,13 @@
 	},
 	{
 		"name": "Aquaponics Kit",
-		"uniques": ["Can instantly construct [Aquaponics Area] improvement <by consuming this unit>"],
+		"uniques": ["Can instantly construct a [Aquaponics Area] improvement <by consuming this unit>"],
 		"row": 121,
         "column": 0
 	},
 	{
 		"name": "ARK Construction",
-		"uniques": ["Can instantly construct [ARK District] improvement <by consuming this unit>"],
+		"uniques": ["Can instantly construct a [ARK District] improvement <by consuming this unit>"],
 		"row": 122,
         "column": 0
 	}
