@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Peacekeeper Training",
-		"uniques": ["Can construct [Emplacement] <if it hasn't used other actions yet>"],
+		"uniques": ["Can construct [Emplacement] improvement <for [1] movement> <if it hasn't used other actions yet>"],
 		"row": 119,
         "column": 0
 	},
@@ -16,13 +16,13 @@
 	},
 	{
 		"name": "Aquaponics Kit",
-		"uniques": ["Can construct [Aquaponics Area]"],
+		"uniques": ["Can instantly construct [Aquaponics Area] improvement <by consuming this unit>"],
 		"row": 121,
         "column": 0
 	},
 	{
 		"name": "ARK Construction",
-		"uniques": ["Can construct [ARK District]"],
+		"uniques": ["Can instantly construct [ARK District] improvement <by consuming this unit>"],
 		"row": 122,
         "column": 0
 	}
