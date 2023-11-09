@@ -98,7 +98,7 @@
 			"[+100]% Strength <vs [Infantry] units>",
 			"Only available <in cities with a [Mechanized Unit Facility]>",
 			"Consumes [1] [Promethine]",
-			"Only available <with [Promethine]>",
+			//"Only available <with [Promethine]>",
 			"Never appears as a Barbarian unit"
 		],
 		"hurryCostModifier": 10,
@@ -138,7 +138,7 @@
 			"[+50]% Strength <when defending>",
 			"Only available <in cities with a [Mechanized Unit Facility]>",
 			"Consumes [2] [Ulframite]",
-			"Only available <with [Ulframite]>",
+			//"Only available <with [Ulframite]>",
 			"Never appears as a Barbarian unit"
 		],
 		"hurryCostModifier": 20,
@@ -174,7 +174,7 @@
 			"[+50]% Strength <when defending>",
 			"Only available <in cities with a [Mechanized Unit Facility]>",
 			"Consumes [1] [Ulframite]",
-			"Only available <with [Ulframite]>",
+			//"Only available <with [Ulframite]>",
 			"Never appears as a Barbarian unit"
 		],
 		"promotions": ["Ignore terrain cost"],
