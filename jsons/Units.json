@@ -88,7 +88,7 @@
 		"strength": 35,
 		"cost": 125,
 		"requiredTech": "Next-Gen Armaments",
-		"requiredResource": "Promethine",
+		//"requiredResource": "Promethine",
 		"upgradesTo": "Colonial Armor",
 		"uniques": [
 			"Can move after attacking",
@@ -98,6 +98,7 @@
 			"[+100]% Strength <vs [Infantry] units>",
 			"Only available <in cities with a [Mechanized Unit Facility]>",
 			"Consumes [1] [Promethine]",
+			"Only available <with [Promethine]>",
 			"Never appears as a Barbarian unit"
 		],
 		"hurryCostModifier": 10,
@@ -125,7 +126,7 @@
 		"rangedStrength": 55,
 		"cost": 550,
 		"requiredTech": "Mind-Machine Interface",
-		"requiredResource": "Ulframite",
+		//"requiredResource": "Ulframite",
 		"uniques": [
 			"Mech",
 			"[+200]% Strength <vs cities>",
@@ -137,6 +138,7 @@
 			"[+50]% Strength <when defending>",
 			"Only available <in cities with a [Mechanized Unit Facility]>",
 			"Consumes [2] [Ulframite]",
+			"Only available <with [Ulframite]>",
 			"Never appears as a Barbarian unit"
 		],
 		"hurryCostModifier": 20,
@@ -162,7 +164,7 @@
 		"strength": 50,
 		"cost": 450,
 		"requiredTech": "Stasis Fields",
-		"requiredResource": "Ulframite",
+		//"requiredResource": "Ulframite",
 		"uniques": [
 			"Mech",
 			"May Paradrop up to [5] tiles from inside friendly territory",
@@ -172,6 +174,7 @@
 			"[+50]% Strength <when defending>",
 			"Only available <in cities with a [Mechanized Unit Facility]>",
 			"Consumes [1] [Ulframite]",
+			"Only available <with [Ulframite]>",
 			"Never appears as a Barbarian unit"
 		],
 		"promotions": ["Ignore terrain cost"],
