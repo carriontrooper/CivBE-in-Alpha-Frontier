@@ -674,7 +674,7 @@
 		"uniques": [
 			"[+2 Food, +1 Gold] from each Trade Route",
 			"Gifts of Gold to City-States generate [+10]% more Influence",
-			"[Worker] units gain the [Aquaponics Kit] promotion"
+			"[Constructor] units gain the [Aquaponics Kit] promotion"
 		],
 		"cities": [
 			"Freeland",
@@ -1123,7 +1123,7 @@
 		"uniques": [
 			"[+2 Production] in cities on [Coastal] tiles",
 			"[+10]% Strength for cities <in [Coastal] tiles>",
-			"[Worker] units gain the [ARK Construction] promotion"
+			"[Constructor] units gain the [ARK Construction] promotion"
 		],
 		"cities": [
 			"Deepcastle",
