@@ -198,7 +198,7 @@
 		"favoredReligion": "Solar Mass",
 		"uniqueName": "Great Heavenly Leap",
 		"uniques": [
-			"[-20]% tile improvement construction time",
+			"[-20]% construction time for [All] improvements",
 			"[+20]% Production when constructing [All] wonders [in all cities]"
 		],
 		"cities": [
@@ -392,7 +392,7 @@
 		"favoredReligion": "Neo-Monolith",
 		"uniqueName": "Bastion of Culture",
 		"uniques": [
-			"Provides [+1 Happiness] per [2] social policies adopted",
+			"[+1 Happiness] per [2] social policies adopted",
 			"[-10]% Culture cost of adopting new Policies"
 		],
 		"cities": [
