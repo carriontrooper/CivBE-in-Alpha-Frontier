@@ -89,6 +89,7 @@
 		"leaderName": "Suzanne Fielding",
 		"adjective": ["ARC"],
 		"startBias": ["Plains","Grassland"],
+		"personality": "Espionage Megacorp",
 		"preferredVictoryType":"Diplomatic",
 
 		"startIntroPart1": "Greetings, CEO Suzanne Fielding of the American Reclamation Corporation. You have risen through the corporate rank amidst the aftermath of the Great Mistake, and transformed ARC from an engineering and construction firm into an economic juggernaut. It is no surprise that the ARC can finance its own Seeding expeditions under your leadership.",
@@ -178,6 +179,7 @@
 		"leaderName": "Daoming Sochua",
 		"adjective": ["PAC"],
 		"startBias": ["Plains","Grassland"],
+		"personality": "Construction Bureau",
 		"preferredVictoryType":"Cultural",
 
 		"startIntroPart1": "Ni Hao, Secretary-Architect Daoming Sochua of the Pan-Asian Collective. Your genius has brought you to the forefront of the PAC scientific community and brought it out of the chaos of the Great Mistake. Your achievements are numerous both as a scientist and an administrator. It is no surprise when the PAC decides to send a colony ship as part of the Seeding, you volunteered to be mission leader to ensure its success.",
@@ -273,6 +275,7 @@
 		"leaderName": "Samatar Jama Barre",
 		"adjective": ["African Union"],
 		"startBias": ["Plains","Grassland","Desert"],
+		"personality": "Expansionist Military",
 		"preferredVictoryType":"Domination",
 
 		"startIntroPart1": "So Dhowow, Samatar Jama Barre of the People's African Union. You were once a mere militia-men of the PAU - but you rose through the ranks through your skills in diplomacy. Your troops are loyal to you, and they view you as their 'great uncle' - but your most memorable achievement was brokering with the PAC and ARC to advance the PAU. As the most capable candidate, you were elected as the colonial governor for the PAU's Seeding program.",
@@ -372,6 +375,7 @@
 		"leaderName": "Élodie",
 		"adjective": ["Franco-Iberian"],
 		"startBias": ["Plains","Grassland","Desert"],
+		"personality": "Cultural Ambassador",
 		"preferredVictoryType":"Cultural",
 
 		"startIntroPart1": "Bonjour, Élodie of the Franco-Iberian Union. You were steeped in high culture since your early life, your charisma and wit propelled you into the political elite of the Franco-Iberian Union. Using the media to sway people's opinion, you proposed to create a Western cultural archive - in a new offworld colony. Thus having your cultural heritage secured, you soon joined the others in the race to the stars.",
@@ -467,6 +471,7 @@
 		"leaderName": "Kavitha Thakur",
 		"adjective": ["KP"],
 		"startBias": ["Forest","Jungle","Plains","Grassland"],
+		"personality": "Diverse Theocracy",
 		"preferredVictoryType":"Diplomatic",
 
 		"startIntroPart1": "Peace be with you, Kavita Thakur of the Kavithan Protectorate. Daughter of the mystic prophet Raj Thakur, your own spiritual connection and charisma won the hearts and souls of your people. Unanimously voted to become the next leader of the Protectorate, you kept your policy of humanitarian campaigns. Through your father's legacy and the people of the Kavithan Protectorate, you finally realized his dream to spread humanity through the stars.",
@@ -563,6 +568,7 @@
 		"leaderName": "Rejinaldo de Alencar",
 		"adjective": ["Brasilian"],
 		"startBias": ["Jungle"],
+		"personality": "Expansionist Military",
 		"preferredVictoryType":"Domination",
 
 		"startIntroPart1": "Salutations, General Rejinaldo Leonardo Pedro Bolivar de Alencar-Araripe of Brasilia. Your military prowess was tested in the world after the Great Mistake, serving nine combat tours all over the globe. After leaving behind a legacy in the form of two military books and the title of Brasilia's national hero, you were selected to become the leader of Brasilia's Seeding program.",
@@ -652,6 +658,7 @@
 		"leaderName": "Hutama",
 		"adjective": ["Polystralian"],
 		"startBias": ["Coastal"],
+		"personality": "Agrobusiness Union",
 		"preferredVictoryType":"Diplomacy",
 
 		"startIntroPart1": "Greetings, Hutama of the Commonwealth of the Pacific. Your charm, charisma, and strong sense of public justice propelled you through the Polystralian parliament and endeared its citizens. Battling corruption, cronyism, and needless waste while at the same time spreading prosperity to Polystralia and beyond, your popularity led you towards becoming leader of the Polystralian Seeding program. Despite opposing the program at first, you have made up your mind to ensure the survival of your colony.",
@@ -748,6 +755,7 @@
 		"leaderName": "Vadim Kozlov",
 		"adjective": ["Slavic"],
 		"startBias": ["Tundra"],
+		"personality": "Techno-industrialist Nation",
 		"preferredVictoryType":"Scientific",
 
 		"startIntroPart1": "Privyet, General Vadim Kozlov of the Slavic Federation. Your humble start as an orbital construction worker does not dissuade you from joining the armed forces and becoming the public face of the Federation's space program. An excellent foreman who oversaw projects on Earth, Mars, and space, you eagerly volunteered to head the Slavic Federation's offworld colonization program.",
@@ -845,6 +853,7 @@
 		"leaderName": "Arshia Kishk",
 		"adjective": ["Al Falah"],
 		"startBias": ["Desert"],
+		"personality": "Nomadic Spacer",
 		"preferredVictoryType":"Cultural",
 
 		"startIntroPart1": "Salam, Arshia Kishk of Al-Falah. Born on a generational fleet before cryogenics was usable, you were raised on the stories of old Earth by your father. Later in life, you overthrew a black market syndicate and won the hearts of the people through your generosity, ensuring the stability of the other ships of the Al-Falah fleet. Now you lead the Al-Falah, stepping into this new planet with the resilience and determination of your ancestors within you.",
@@ -925,6 +934,7 @@
 		"leaderName": "Han Jae-Moon",
 		"adjective": ["Chungsu"],
 		"startBias": ["Tundra","Coastal"],
+		"personality": "Scheming Spymaster",
 		"preferredVictoryType":"Domination",
 
 		"startIntroPart1": "Annyeonghaseo, Director Han Jae Moon of Chungsu. Your intellect and social aptitude shone from a young age, and you were able to dance through the political minefield that was post-Mistake East Asia. Unanimously elected as leader shortly before landing, your wisdom and knowledge is valued and respected by your fellow colonists.",
@@ -1014,6 +1024,7 @@
 		"leaderName": "Lena Ebner",
 		"adjective": ["INTEGR"],
 		"startBias": ["Hill"],
+		"personality": "Diplomatic Ambassador",
 		"preferredVictoryType":"Diplomacy",
 
 		"startIntroPart1": "Guten Tag, Lena Ebner of the Initiative für Nachhaltige Technologien, Effizienz, Gerechtigkeit und Rechtschaffenheit. You have seen the post-Mistake world during your youth, and its crises as a volunteer shortly after. Your activism and dedication to humanitarianism has attracted the INTEGR party, and they elected you as their leader for your 'techno-green' Transmodernism ideals. When the Inflection Point was discovered, you made sure that INTEGR's Seeding is not done hastily while being mindful of the effects it has on Earth.",
@@ -1101,6 +1112,7 @@
 		"leaderName": "Duncan Hughes",
 		"adjective": ["NSA"],
 		"startBias": ["Tundra","Coastal"],
+		"personality": "Industrial Builder",
 		"preferredVictoryType":"Domination",
 
 		"startIntroPart1": "Greetings, Duncan Hughes of the North Sea Alliance. While your demeanor seem ill-suited to the political life, a strong work ethic and shrewd dealmaking skills helped you survive and thrive in politics. An excellent engineer yourself, you proposed the ARKs' naval capacities - which will serve you greatly in this new world.",
