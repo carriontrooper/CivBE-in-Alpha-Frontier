@@ -89,6 +89,7 @@
 	{
 		"name": "Valente APC",
 		"unitType": "Armored",
+		//"replaces": "IFV",
 		"uniqueTo": "Brasilia",
 		"movement": 4,
 		"strength": 35,
@@ -102,9 +103,9 @@
 			"[+10]% Strength bonus for [Military] units within [2] tiles",
 			"[+50]% Strength <vs [Armored] units>",
 			"[+100]% Strength <vs [Infantry] units>",
-			"Only available <in cities with a [Mechanized Unit Facility]>",
+			"Can only be built <in cities with a [Mechanized Unit Facility]>",
 			"Consumes [1] [Promethine]",
-			//"Only available <with [Promethine]>",
+			//"Can only be built <with [Promethine]>",
 			"Never appears as a Barbarian unit"
 		],
 		"hurryCostModifier": 10,
@@ -144,9 +145,9 @@
 			"Can carry [1] [Satellite] units",
 			"[+50]% Strength <vs [Armored] units>",
 			"[+50]% Strength <when defending>",
-			"Only available <in cities with a [Mechanized Unit Facility]>",
+			"Can only be built <in cities with a [Mechanized Unit Facility]>",
 			"Consumes [2] [Ulframite]",
-			//"Only available <with [Ulframite]>",
+			//"Can only be built <with [Ulframite]>",
 			"Never appears as a Barbarian unit"
 		],
 		"hurryCostModifier": 20,
@@ -182,9 +183,9 @@
 			"No defensive terrain bonus",
 			"[+50]% Strength <vs [Armored] units>",
 			"[+50]% Strength <when defending>",
-			"Only available <in cities with a [Mechanized Unit Facility]>",
+			"Can only be built <in cities with a [Mechanized Unit Facility]>",
 			"Consumes [1] [Ulframite]",
-			//"Only available <with [Ulframite]>",
+			//"Can only be built <with [Ulframite]>",
 			"Never appears as a Barbarian unit"
 		],
 		"promotions": ["Ignore terrain cost"],
