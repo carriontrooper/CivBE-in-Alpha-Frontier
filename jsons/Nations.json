@@ -659,7 +659,7 @@
 		"adjective": ["Polystralian"],
 		"startBias": ["Coastal"],
 		"personality": "Agrobusiness Union",
-		"preferredVictoryType":"Diplomacy",
+		"preferredVictoryType":"Diplomatic",
 
 		"startIntroPart1": "Greetings, Hutama of the Commonwealth of the Pacific. Your charm, charisma, and strong sense of public justice propelled you through the Polystralian parliament and endeared its citizens. Battling corruption, cronyism, and needless waste while at the same time spreading prosperity to Polystralia and beyond, your popularity led you towards becoming leader of the Polystralian Seeding program. Despite opposing the program at first, you have made up your mind to ensure the survival of your colony.",
 		"startIntroPart2": "Hutama, your people look to you to bring prosperity to this new planet. Will you ensure their prosperity? Can you build a colony that stands the test of time?",
@@ -1025,7 +1025,7 @@
 		"adjective": ["INTEGR"],
 		"startBias": ["Hill"],
 		"personality": "Diplomatic Ambassador",
-		"preferredVictoryType":"Diplomacy",
+		"preferredVictoryType":"Diplomatic",
 
 		"startIntroPart1": "Guten Tag, Lena Ebner of the Initiative für Nachhaltige Technologien, Effizienz, Gerechtigkeit und Rechtschaffenheit. You have seen the post-Mistake world during your youth, and its crises as a volunteer shortly after. Your activism and dedication to humanitarianism has attracted the INTEGR party, and they elected you as their leader for your 'techno-green' Transmodernism ideals. When the Inflection Point was discovered, you made sure that INTEGR's Seeding is not done hastily while being mindful of the effects it has on Earth.",
 		"startIntroPart2": "Lena, your people look to you to manifest your ideals in this new planet. Will you achieve a techno-environmental paradise in this world and Earth? Can you build a colony that stands the test of time?",
