@@ -33,6 +33,8 @@
 			"Consumes [1] [Digital Storage Space]",
 			"[+1 Gold] from all [Gold] buildings",
 			"All newly-trained [Stealth Infantry] units [in this city] receive the [Spook] promotion",
+			"[+20]% spy effectiveness [in all cities]",
+			"[-20]% enemy spy effectiveness [in all cities]",
 			"Cost increases by [30] per owned city"
 		],
 		"requiredTech": "Military Ballistics",
@@ -258,7 +260,8 @@
 			"Prefab",
 			"Must be next to [Coast]",
 			"[+1 Science] <after discovering [Info Networks]>",
-			"[+1 Culture] <after discovering [Net Culture]>"
+			"[+1 Culture] <after discovering [Net Culture]>",
+			"[-10]% enemy spy effectiveness [in this city]"
 		],
 		"requiredTech": "Colony Administration",
 		"civilopediaText": [
