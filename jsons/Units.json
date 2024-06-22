@@ -89,7 +89,7 @@
 	{
 		"name": "Valente APC",
 		"unitType": "Armored",
-		//"replaces": "IFV",
+		"replaces": "IFV",
 		"uniqueTo": "Brasilia",
 		"movement": 4,
 		"strength": 35,
