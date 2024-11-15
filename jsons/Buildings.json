@@ -153,7 +153,7 @@
 		"requiredTech": "Hab-Domes",
 		"uniques": [
 			"Prefab",
-			"Hidden when religion is disabled",
+			"Only available <when religion is enabled>",
 			"[Wounded] Units adjacent to this city heal [5] HP per turn when healing",
 			"Destroyed when the city is captured"
 		],
