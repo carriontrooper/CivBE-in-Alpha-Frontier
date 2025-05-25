@@ -52,6 +52,7 @@
 		"neutralHello": ".",
 		"hateHello": ".",
 
+		"denounced": ".",
 		"tradeRequest": ".",
 
 		"outerColor": [85, 85, 85],
@@ -103,6 +104,7 @@
 		"neutralHello": "What can ARC do for you?",
 		"hateHello": "For your information, this conversation may be recorded and used against you.",
 
+		"denounced": "You will receive a reply from our HR department soon.",
 		"tradeRequest": "We have this opportunity for you. What's your take?",
 
 		"outerColor": [4, 54, 107],
@@ -194,6 +196,7 @@
 		"neutralHello": "Greetings from our colony to yours.",
 		"hateHello": "You are annoying.",
 
+		"denounced": "How irritating.",
 		"tradeRequest": "This agreement is practically guaranteed to benefit both of our colonies. So, of course you will accept?",
 
 		"outerColor": [56, 27, 121],
@@ -290,6 +293,7 @@
 		"neutralHello": "So dhowow.",
 		"hateHello": "How dare you show your face? Do you have no shame?",
 
+		"denounced": "My people do not deserve this slander you've been spreading.",
 		"tradeRequest": "Tell me, friend, is this not a bargain?",
 
 		"outerColor": [80, 21, 8],
@@ -390,6 +394,7 @@
 		"neutralHello": "Bonjour, hello.",
 		"hateHello": "I was expecting someone important...",
 
+		"denounced": "Ah, dearie, that's not how you properly denounce someone.",
 		"tradeRequest": "This is to my liking, what do you think, dear?",
 
 		"outerColor": [54, 107, 166],
@@ -486,6 +491,7 @@
 		"neutralHello": "Hello, and peace be with you.",
 		"hateHello": "Your kind does not deserve my wisdom, but I am not the judge.",
 
+		"denounced": "The Lord of the Cosmos shall reveal the truth your words have tried to hide.",
 		"tradeRequest": "May we both be blessed by this agreement.",
 
 		"outerColor": [96, 16, 110],
@@ -583,6 +589,7 @@
 		"neutralHello": "Welcome. Shall we begin?",
 		"hateHello": "What a disgrace...",
 
+		"denounced": "We'll settle this on the battlefield, then.",
 		"tradeRequest": "These are good terms, no?",
 
 		"outerColor": [29, 55, 105],
@@ -673,6 +680,7 @@
 		"neutralHello": "G'day, mate.",
 		"hateHello": "Look, don't you have someone else to bother?",
 
+		"denounced": "Hey, that's not nice, mate.",
 		"tradeRequest": "Boy, do I have a deal for you...",
 
 		"outerColor": [0, 61, 56],
@@ -770,6 +778,7 @@
 		"neutralHello": "Hello.",
 		"hateHello": "Your point?",
 
+		"denounced": "Regrettable.",
 		"tradeRequest": "I propose this agreement. Do you accept?",
 
 		"outerColor": [138, 25, 25],
@@ -868,6 +877,7 @@
 		"neutralHello": "I am ready to talk if you are.",
 		"hateHello": "I wish I never had to see you. Let's get this over with.",
 
+		"denounced": "I am saddened by this.",
 		"tradeRequest": "I would like to propose this deal, for the better of both our people.",
 
 		"outerColor": [26, 46, 69],
@@ -949,6 +959,7 @@
 		"neutralHello": "We were expecting you.",
 		"hateHello": "Hahaha, waegukin, come to beg?",
 
+		"denounced": "Expected. Do remember, we know where you live.",
 		"tradeRequest": "We assembled this agreement for your eyes only. What are your thoughts?",
 
 		"outerColor": [0, 0, 51],
@@ -1039,6 +1050,7 @@
 		"neutralHello": "Geht es Ihnen gut?",
 		"hateHello": "What makes you think I want to talk with you?",
 
+		"denounced": "How boorish.",
 		"tradeRequest": "Here is our proposal. It's as good a deal as you're going to get from anyone. Take your time to look it over.",
 
 		"outerColor": [82, 3, 0],
@@ -1127,6 +1139,7 @@
 		"neutralHello": "Good day to you.",
 		"hateHello": "You must be daft, coming here.",
 
+		"denounced": "You think I can't handle a little bantz?",
 		"tradeRequest": "All right, so what do you think about this proposal, then? It'll help both of us, that's for sure.",
 
 		"outerColor": [82, 40, 15],
