@@ -53,6 +53,7 @@
 		"hateHello": ".",
 
 		"denounced": ".",
+		"declaringFriendship": ".",
 		"tradeRequest": ".",
 
 		"outerColor": [85, 85, 85],
@@ -105,6 +106,7 @@
 		"hateHello": "For your information, this conversation may be recorded and used against you.",
 
 		"denounced": "You will receive a reply from our HR department soon.",
+		"declaringFriendship": "We extend this partnership program to you, knowing full well of the advantages you bring to the table.",
 		"tradeRequest": "We have this opportunity for you. What's your take?",
 
 		"outerColor": [4, 54, 107],
@@ -197,6 +199,7 @@
 		"hateHello": "You are annoying.",
 
 		"denounced": "How irritating.",
+		"declaringFriendship": "I think you have a brilliant mind, and we should work together.",
 		"tradeRequest": "This agreement is practically guaranteed to benefit both of our colonies. So, of course you will accept?",
 
 		"outerColor": [56, 27, 121],
@@ -294,6 +297,7 @@
 		"hateHello": "How dare you show your face? Do you have no shame?",
 
 		"denounced": "My people do not deserve this slander you've been spreading.",
+		"declaringFriendship": "No village was ever hurt by growing closer together.",
 		"tradeRequest": "Tell me, friend, is this not a bargain?",
 
 		"outerColor": [80, 21, 8],
@@ -395,6 +399,7 @@
 		"hateHello": "I was expecting someone important...",
 
 		"denounced": "Ah, dearie, that's not how you properly denounce someone.",
+		"declaringFriendship": "I consider it an honor to be friends with you. Don't you agree?",
 		"tradeRequest": "This is to my liking, what do you think, dear?",
 
 		"outerColor": [54, 107, 166],
@@ -492,6 +497,7 @@
 		"hateHello": "Your kind does not deserve my wisdom, but I am not the judge.",
 
 		"denounced": "The Lord of the Cosmos shall reveal the truth your words have tried to hide.",
+		"declaringFriendship": "Your actions are aligned with the will of the Lord of the Cosmos, and we will be glad to help you.",
 		"tradeRequest": "May we both be blessed by this agreement.",
 
 		"outerColor": [96, 16, 110],
@@ -590,6 +596,7 @@
 		"hateHello": "What a disgrace...",
 
 		"denounced": "We'll settle this on the battlefield, then.",
+		"declaringFriendship": "You look loyal and honorable. I like that.",
 		"tradeRequest": "These are good terms, no?",
 
 		"outerColor": [29, 55, 105],
@@ -681,6 +688,7 @@
 		"hateHello": "Look, don't you have someone else to bother?",
 
 		"denounced": "Hey, that's not nice, mate.",
+		"declaringFriendship": "Am I glad you're a fun sort of fellow! This friendship will last for a long time, yeah?",
 		"tradeRequest": "Boy, do I have a deal for you...",
 
 		"outerColor": [0, 61, 56],
@@ -779,6 +787,7 @@
 		"hateHello": "Your point?",
 
 		"denounced": "Regrettable.",
+		"declaringFriendship": "The Slavic Federation welcomes you as friend. This is good.",
 		"tradeRequest": "I propose this agreement. Do you accept?",
 
 		"outerColor": [138, 25, 25],
@@ -878,6 +887,7 @@
 		"hateHello": "I wish I never had to see you. Let's get this over with.",
 
 		"denounced": "I am saddened by this.",
+		"declaringFriendship": "You are like a shining star, guiding us to a new home.",
 		"tradeRequest": "I would like to propose this deal, for the better of both our people.",
 
 		"outerColor": [26, 46, 69],
@@ -959,7 +969,8 @@
 		"neutralHello": "We were expecting you.",
 		"hateHello": "Hahaha, waegukin, come to beg?",
 
-		"denounced": "Expected. Do remember, we know where you live.",
+		"denounced": "I expected this. Do remember, we know where you live.",
+		"declaringFriendship": "Waegukin, we see that you're not that gullible, after all.",
 		"tradeRequest": "We assembled this agreement for your eyes only. What are your thoughts?",
 
 		"outerColor": [0, 0, 51],
@@ -1051,6 +1062,7 @@
 		"hateHello": "What makes you think I want to talk with you?",
 
 		"denounced": "How boorish.",
+		"declaringFriendship": "This mutual amicability agreement will raise both of our prestige, won't you say?",
 		"tradeRequest": "Here is our proposal. It's as good a deal as you're going to get from anyone. Take your time to look it over.",
 
 		"outerColor": [82, 3, 0],
@@ -1140,6 +1152,7 @@
 		"hateHello": "You must be daft, coming here.",
 
 		"denounced": "You think I can't handle a little bantz?",
+		"declaringFriendship": "You're alright, friendo. Let's have a pint together later.",
 		"tradeRequest": "All right, so what do you think about this proposal, then? It'll help both of us, that's for sure.",
 
 		"outerColor": [82, 40, 15],
