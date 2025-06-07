@@ -114,7 +114,7 @@
 		"requiredTech": "Colony Administration",
 		"uniques": [
 			"[+3 Culture] <when not at war>",
-			"[-5]% maintenance cost for buildings [in this city]"
+			"[-5]% maintenance cost for [All] buildings [in this city]"
 		],
 		"civilopediaText": [
 			{
