@@ -795,9 +795,9 @@
 		"favoredReligion": "Posadist",
 		"uniqueName": "The People's Triumph",
 		"uniques": [
-			"Double quantity of [Titanium] produced",
-			"Double quantity of [Promethine] produced",
-			"Double quantity of [Ulframite] produced",
+			"[100]% [Titanium] resource production",
+			"[100]% [Promethine] resource production",
+			"[100]% [Ulframite] resource production",
 			"[+10]% Production when constructing [Satellite] units [in all cities] <with [Titanium]>"
 		],
 		"cities": [
