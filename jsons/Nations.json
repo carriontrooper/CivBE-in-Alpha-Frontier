@@ -979,11 +979,11 @@
 		"uniqueName": "Deniable Operations",
 		"uniques": [
 			"Seaborne Faction",
+			"Enables embarkation for land units",
 			"[+10]% Production when constructing [Stealth Infantry] units [in all cities]",
 			"[+10]% Strength <for units with [Spook]>",
 			"City-State territory always counts as friendly territory",
 			"Gain an extra spy",
-			"Starts with [Hovercrafts]",
 			"[Colonizer] units gain the [Amphibious Colonizer] promotion",
 			"All newly-trained [Colonizer] units [in all cities] receive the [Amphibious Colonizer] promotion"
 		],
@@ -1165,10 +1165,10 @@
 		"uniqueName": "ARKs of Humanity",
 		"uniques": [
 			"Seaborne Faction",
+			"Enables embarkation for land units",
 			"[+2 Production] in cities on [Coastal] tiles",
 			"[+10]% Strength for cities <in [Coastal] tiles>",
 			"[Constructor] units gain the [ARK Construction] promotion",
-			"Starts with [Hovercrafts]",
 			"[Colonizer] units gain the [Amphibious Colonizer] promotion",
 			"All newly-trained [Colonizer] units [in all cities] receive the [Amphibious Colonizer] promotion"
 		],
