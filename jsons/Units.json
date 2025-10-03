@@ -178,7 +178,7 @@
 		//"requiredResource": "Ulframite",
 		"uniques": [
 			"Mech",
-			"May Paradrop up to [5] tiles from inside friendly territory",
+			"May Paradrop to [Land] tiles up to [5] tiles away <in [{Friendly} {Land}] tiles>",
 			"Can move after attacking",
 			"No defensive terrain bonus",
 			"[+50]% Strength <vs [Armored] units>",
