@@ -116,6 +116,13 @@
 		"declaringFriendship": "We extend this partnership program to you, knowing full well of the advantages you bring to the table.",
 		"tradeRequest": "We have this opportunity for you. What's your take?",
 
+		"neutralDenouncing": "Our current situation isn't working. Let's take this discussion offline.",
+		"hateDenouncing": "Your current reputation is not just the result of bad PR-- it's bad for morale and bad for business.",
+		
+		"acceptingDemand": "This looks fair.",
+		"neutralRejectingDemand": "Where's thw profit?",
+		"hateRejectingDemand": "No deal!",
+
 		"outerColor": [4, 54, 107],
 		"innerColor": [79, 207, 231],
 		"favoredReligion": "Cosmic Clergy",
@@ -208,6 +215,13 @@
 		"denounced": "How irritating.",
 		"declaringFriendship": "I think you have a brilliant mind, and we should work together.",
 		"tradeRequest": "This agreement is practically guaranteed to benefit both of our colonies. So, of course you will accept?",
+
+		"neutralDenouncing": "Your actions are worrying. I suggest you reconsider. You'll understand if I have to downgrade out diplomatic relationship.",
+		"hateDenouncing": "Your colony is pathetic, as is your technological acumen.",
+		
+		"acceptingDemand": "That is a reasonable offer. I accept.",
+		"neutralRejectingDemand": "I was prepared for your offer, and unfortunately my answer is not yes.",
+		"hateRejectingDemand": "Did you take any time to analyze that offer? It was not very good.",
 
 		"outerColor": [56, 27, 121],
 		"innerColor": [228, 36, 235],
@@ -306,6 +320,13 @@
 		"denounced": "My people do not deserve this slander you've been spreading.",
 		"declaringFriendship": "No village was ever hurt by growing closer together.",
 		"tradeRequest": "Tell me, friend, is this not a bargain?",
+
+		"neutralDenouncing": "I cannot agree with your path. It is not the wisest of pursuits.",
+		"hateDenouncing": "Your foolish ways will be the death of your people.",
+		
+		"acceptingDemand": "Indeed, ilmo.",
+		"neutralRejectingDemand": "No, jiran.",
+		"hateRejectingDemand": "Disar, absolutely not.",
 
 		"outerColor": [80, 21, 8],
 		"innerColor": [250, 106, 20],
@@ -409,6 +430,13 @@
 		"declaringFriendship": "I consider it an honor to be friends with you. Don't you agree?",
 		"tradeRequest": "This is to my liking, what do you think, dear?",
 
+		"neutralDenouncing": "Don't be content with mediocrity. It doesn't become any of us.",
+		"hateDenouncing": "It is not often that I get to use the word 'revulsive', but here you are.",
+		
+		"acceptingDemand": "Oui, mon ami.",
+		"neutralRejectingDemand": "I won't bore you with platitudes, we're simply not dealing with you.",
+		"hateRejectingDemand": "How many times must we indulge this charade? The answer is no.",
+
 		"outerColor": [54, 107, 166],
 		"innerColor": [182, 196, 219],
 		"favoredReligion": "Neo-Monolith",
@@ -506,6 +534,13 @@
 		"denounced": "The Lord of the Cosmos shall reveal the truth your words have tried to hide.",
 		"declaringFriendship": "Your actions are aligned with the will of the Lord of the Cosmos, and we will be glad to help you.",
 		"tradeRequest": "May we both be blessed by this agreement.",
+
+		"neutralDenouncing": "Like scattered dust, your leadership dooms your people to mediocrity.",
+		"hateDenouncing": "These tidings of broken words are ill omens, portents of doom.",
+		
+		"acceptingDemand": "We agree, my child.",
+		"neutralRejectingDemand": "I'm sorry, but we must seek another way if we are to reach an agreement.",
+		"hateRejectingDemand": "This will never stand.",
 
 		"outerColor": [96, 16, 110],
 		"innerColor": [0, 216, 186],
@@ -606,6 +641,13 @@
 		"declaringFriendship": "You look loyal and honorable. I like that.",
 		"tradeRequest": "These are good terms, no?",
 
+		"neutralDenouncing": "I can't tell if you're following bad strategy or if you just don't have one.",
+		"hateDenouncing": "It's a shame you left things like 'honor' and 'duty' on Old Earth.",
+		
+		"acceptingDemand": "This looks good. I say yes.",
+		"neutralRejectingDemand": "Desculpe, pero no.",
+		"hateRejectingDemand": "No, no. This will not do.",
+
 		"outerColor": [29, 55, 105],
 		"innerColor": [0, 230, 75],
 		"favoredReligion": "Gene Purists",
@@ -697,6 +739,13 @@
 		"denounced": "Hey, that's not nice, mate.",
 		"declaringFriendship": "Am I glad you're a fun sort of fellow! This friendship will last for a long time, yeah?",
 		"tradeRequest": "Boy, do I have a deal for you...",
+
+		"neutralDenouncing": "I won't judge you by the company you keep, for your sake.",
+		"hateDenouncing": "There's junk, and then there's your cities.",
+		
+		"acceptingDemand": "Tidak masalah! We agree.",
+		"neutralRejectingDemand": "No can do.",
+		"hateRejectingDemand": "Not in this life!",
 
 		"outerColor": [0, 61, 56],
 		"innerColor": [181, 222, 0],
@@ -796,6 +845,13 @@
 		"denounced": "Regrettable.",
 		"declaringFriendship": "The Slavic Federation welcomes you as friend. This is good.",
 		"tradeRequest": "I propose this agreement. Do you accept?",
+
+		"neutralDenouncing": "You have many mistakes. Correct them.",
+		"hateDenouncing": "You are weak.",
+		
+		"acceptingDemand": "We agree.",
+		"neutralRejectingDemand": "I'm afraid not.",
+		"hateRejectingDemand": "You're out of your mind!",
 
 		"outerColor": [138, 25, 25],
 		"innerColor": [224, 198, 68],
@@ -897,6 +953,13 @@
 		"declaringFriendship": "You are like a shining star, guiding us to a new home.",
 		"tradeRequest": "I would like to propose this deal, for the better of both our people.",
 
+		"neutralDenouncing": "There are worse things than your leadership, but not many.",
+		"hateDenouncing": "You clearly have lost sight of the path of your people.",
+		
+		"acceptingDemand": "I can agree to those terms. I accept.",
+		"neutralRejectingDemand": "No, that is not a good deal.",
+		"hateRejectingDemand": "No, I will not sacrifice my people for your gain.",
+
 		"outerColor": [26, 46, 69],
 		"innerColor": [240, 209, 51],
 		"favoredReligion": "Nomadist",
@@ -979,6 +1042,13 @@
 		"denounced": "I expected this. Do remember, we know where you live.",
 		"declaringFriendship": "Waegukin, we see that you're not that gullible, after all.",
 		"tradeRequest": "We assembled this agreement for your eyes only. What are your thoughts?",
+
+		"neutralDenouncing": "You should cease meddling in our affairs.",
+		"hateDenouncing": "Your misadventures are beginning to bother us, waegukin.",
+		
+		"acceptingDemand": "This will be... useful.",
+		"neutralRejectingDemand": "This is not in our best interests.",
+		"hateRejectingDemand": "Why do you even think we'll accept this, waegukin?",
 
 		"outerColor": [0, 0, 51],
 		"innerColor": [0, 207, 26],
@@ -1075,6 +1145,13 @@
 		"declaringFriendship": "This mutual amicability agreement will raise both of our prestige, won't you say?",
 		"tradeRequest": "Here is our proposal. It's as good a deal as you're going to get from anyone. Take your time to look it over.",
 
+		"neutralDenouncing": "I'm afraid that you are causing a negative feedback cycle on our relationship.",
+		"hateDenouncing": "You've forgotten the past, and doomed to repeat mistakes.",
+		
+		"acceptingDemand": "Yes, we'd like to move forward with this.",
+		"neutralRejectingDemand": "Interesting, but no. Come back when you have a better offer.",
+		"hateRejectingDemand": "I only entertain your proposal out of politeness. Accepting them, however, is impossible.",
+
 		"outerColor": [82, 3, 0],
 		"innerColor": [69, 173, 120],
 		"favoredReligion": "Xenocult",
@@ -1164,6 +1241,13 @@
 		"denounced": "You think I can't handle a little bantz?",
 		"declaringFriendship": "You're alright, friendo. Let's have a pint together later.",
 		"tradeRequest": "All right, so what do you think about this proposal, then? It'll help both of us, that's for sure.",
+
+		"neutralDenouncing": "Oh you poor sod, don't you realize your reputation's in tatters?",
+		"hateDenouncing": "You're nothing but a bunch of glakit bams. Best stick to farming.",
+		
+		"acceptingDemand": "That's grand.",
+		"neutralRejectingDemand": "Unlikely at best!",
+		"hateRejectingDemand": "Watch your mouth!",
 
 		"outerColor": [82, 40, 15],
 		"innerColor": [87, 133, 236],
